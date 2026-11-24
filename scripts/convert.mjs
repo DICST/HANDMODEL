@@ -339,9 +339,6 @@ const RELATED = {
   326: '**Learn more:** [The HAND Model Physics](/en/the-hand-model-physics/)',
 };
 
-// Fora da busca: post padrão do WordPress e página praticamente vazia
-const NOT_IN_SEARCH = new Set([1, 1190]);
-
 const NAV_OF_PAGE ={9: 9, 161: 161, 307: 307, 326: 326, 900: 900, 905: 905, 114: 114, 764: 764, 101: 101, 201: 201, 1073: 1073, 1075: 1075 };
 const pages = [];
 // Removidas a pedido: post padrão "Olá, mundo!" (1) e "Help Topics" quase vazia (1190); os endereços redirecionam ao início
@@ -389,7 +386,7 @@ fs.writeFileSync(path.join(ROOT, 'src/content/pages.json'), JSON.stringify(pages
 fs.mkdirSync(path.join(ROOT, 'public'), { recursive: true });
 fs.writeFileSync(
   path.join(ROOT, 'public/search-index.json'),
-  JSON.stringify(pages.filter((p) => !NOT_IN_SEARCH.has(p.id)).map((p) => ({ route: p.route, lang: p.lang, title: p.title, text: blocksText(p.blocks) }))),
+  JSON.stringify(pages.map((p) => ({ route: p.route, lang: p.lang, title: p.title, text: blocksText(p.blocks) }))),
 );
 
 // ------------------------------------------------------------ Arquivos

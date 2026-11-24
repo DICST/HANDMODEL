@@ -120,8 +120,7 @@ Para testar com outro prefixo, defina `BASE_PATH` antes do build (no PowerShell:
 │   ├── content/                   pages.json (páginas em blocos) e downloads.json (metadados dos arquivos)
 │   ├── lib/                       Menus, textos por idioma, rotas e utilitários
 │   └── themes/hand/               Tema Astryx gerado (azul-petróleo #1b8aa3)
-├── themes/hand/                   Fonte do tema (editado com o editor de temas do Astryx)
-└── docs/                          Relatórios de QA e de auditoria de UI
+└── themes/hand/                   Fonte do tema (editado com o editor de temas do Astryx)
 ```
 
 ### Como o conteúdo é renderizado
@@ -186,8 +185,6 @@ Antes de publicar, o projeto passa por:
 - verificação de links e arquivos em todas as rotas, com o prefixo do GitHub Pages;
 - comparação dos downloads com os originais (SHA-256);
 - testes de navegação, formulários, busca, idiomas e layout em celular e desktop.
-
-Os relatórios estão em [`docs/QA-REPORT.md`](docs/QA-REPORT.md) e [`docs/UI-REVIEW.md`](docs/UI-REVIEW.md).
 
 ## Como contribuir
 

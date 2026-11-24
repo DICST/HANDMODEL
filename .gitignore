@@ -3,3 +3,20 @@ node_modules/
 out/
 next-env.d.ts
 *.tsbuildinfo
+
+# instruções para assistentes de IA (geradas por `npx astryx init`)
+AGENTS.md
+GEMINI.md
+CLAUDE.md
+.claude/
+
+# prévias e histórico do editor de temas do Astryx
+themes/*/preview.html
+themes/*/preview*.png
+themes/*/sheet-*.png
+themes/*/*.pictures.json
+themes/*/*.history.json
+
+# relatórios locais e ferramentas de teste
+docs/
+.playwright-mcp/

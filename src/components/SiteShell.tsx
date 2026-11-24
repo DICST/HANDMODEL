@@ -163,4 +163,3 @@ export function PageHeader({ title, lang }: { title: string; lang: Lang }) {
   );
 }
 
-export { AxLink };

@@ -77,7 +77,7 @@ const ExternalAnchor = forwardRef<HTMLAnchorElement, React.AnchorHTMLAttributes<
   return <a ref={ref} target="_blank" rel="noopener noreferrer" {...props} />;
 });
 
-export function ContactForm({ lang, compact = false }: { lang: Lang; compact?: boolean }) {
+export function ContactForm({ lang }: { lang: Lang }) {
   const t = L[lang];
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
@@ -123,12 +123,12 @@ export function ContactForm({ lang, compact = false }: { lang: Lang; compact?: b
   };
 
   return (
-    <form onSubmit={submit} noValidate style={{ maxWidth: compact ? undefined : 560 }}>
+    <form onSubmit={submit} noValidate style={{ maxWidth: 560 }}>
       <FormLayout>
         <TextInput label={t.name} value={name} onChange={setName} isRequired htmlName="your-name" autoComplete="name" status={nameErr ? { type: 'error', message: nameErr } : undefined} />
         <TextInput label={t.email} type="text" inputMode="email" autoCapitalize="none" hasAutoCorrect={false} hasSpellCheck={false} value={email} onChange={(v) => setEmail(cleanEmail(v))} isRequired htmlName="your-email" autoComplete="email" status={emailErr ? { type: 'error', message: emailErr } : undefined} />
         <TextInput label={t.subject} value={subject} onChange={setSubject} htmlName="your-subject" />
-        <TextArea label={t.message} value={message} onChange={setMessage} rows={compact ? 4 : 8} htmlName="your-message" maxLength={2000} />
+        <TextArea label={t.message} value={message} onChange={setMessage} rows={8} htmlName="your-message" maxLength={2000} />
         <HStack>
           <Button label={t.send} type="submit" variant="primary" />
         </HStack>
