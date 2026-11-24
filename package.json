@@ -1,0 +1,32 @@
+{
+  "name": "handmodel-astryx",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "convert": "node scripts/convert.mjs",
+    "dev": "next dev",
+    "build": "next build && node scripts/postbuild.mjs",
+    "serve": "node scripts/serve.mjs",
+    "doctor": "astryx doctor --built out"
+  },
+  "dependencies": {
+    "@astryxdesign/cli": "^0.7.17",
+    "@astryxdesign/core": "^0.7.17",
+    "@astryxdesign/theme-neutral": "^0.7.17",
+    "@heroicons/react": "^2.2.0",
+    "@stylexjs/stylex": "^0.19.2",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "cheerio": "^1.2.0",
+    "turndown": "^7.2.5",
+    "turndown-plugin-gfm": "^1.0.2",
+    "typescript": "^7.0.2"
+  }
+}

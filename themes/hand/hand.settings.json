@@ -1,0 +1,43 @@
+{
+  "name": "hand",
+  "like": "neutral",
+  "mode": "both",
+  "settings": [
+    {
+      "thing": "accent",
+      "value": "#1b8aa3",
+      "source": "dial"
+    },
+    {
+      "thing": "--color-text-accent",
+      "value": "#146f84",
+      "source": "token"
+    },
+    {
+      "thing": "font-size",
+      "value": "16px",
+      "source": "property",
+      "on": "markdown-paragraph"
+    },
+    {
+      "thing": "line-height",
+      "value": "1.7",
+      "source": "property",
+      "on": "markdown-paragraph"
+    },
+    {
+      "thing": "line-height",
+      "value": "1.7",
+      "source": "property",
+      "on": "markdown-list"
+    },
+    {
+      "thing": "font-size",
+      "value": "16px",
+      "source": "property",
+      "on": "markdown-list"
+    }
+  ],
+  "lifted": [],
+  "palette": "06511dfaa3eaa949efb4764317861acf07a4162d0ae5c01549e1b5f1c4434333"
+}

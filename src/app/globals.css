@@ -1,0 +1,81 @@
+@import "@astryxdesign/core/reset.css";
+@import "@astryxdesign/core/astryx.css";
+/* O tema "hand" (src/themes/hand, cor de destaque #1b8aa3) é importado por src/astryx-themes.ts */
+
+/* Cores próprias das peças que não são componentes Astryx (hero e rodapé institucional) */
+:root {
+  --hand-ink: #0f2f3a;
+}
+
+html { scroll-behavior: smooth; }
+/* abaixo do rodapé (páginas curtas, rolagem elástica) aparece o mesmo tom escuro do rodapé */
+html, body { background: var(--hand-ink); }
+
+/* ---- layout ---- */
+.hand-container { width: 100%; max-width: 1140px; margin-inline: auto; padding-inline: 16px; }
+/* coluna de leitura (~75 caracteres por linha a 16px): título, abas e texto centralizados juntos */
+.hand-container--reading { max-width: 880px; }
+.hand-container--home { max-width: 1000px; }
+
+/* cabeçalho alinhado à mesma grade de 1140px do conteúdo (o fundo continua de ponta a ponta) */
+.astryx-top-nav { padding-inline: max(16px, calc((100% - 1140px) / 2 + 16px)) !important; }
+.hand-main { padding-block: 32px 56px; }
+.hand-with-sidebar { display: grid; gap: 32px; grid-template-columns: minmax(0, 1fr); }
+@media (min-width: 960px) { .hand-with-sidebar { grid-template-columns: minmax(0, 1fr) 300px; } }
+.hand-sidebar { align-self: start; position: sticky; top: 88px; }
+
+/* ---- cabeçalho ---- */
+.hand-logo { display: block; height: 52px; width: auto; }
+.hand-search-icon { display: none; }
+@media (max-width: 760px) {
+  .hand-logo { height: 36px; min-width: 104px; object-fit: contain; object-position: left center; }
+  .hand-search-full { display: none; }
+  .hand-search-icon { display: inline-flex; }
+}
+.hand-gov { background: #fff; border-bottom: 1px solid rgba(0,0,0,.06); }
+
+/* ---- hero ---- */
+.hand-hero { position: relative; border-radius: 16px; overflow: hidden; background: var(--hand-ink); min-height: 300px; }
+.hand-hero-slide { position: absolute; inset: 0; opacity: 0; transition: opacity .8s ease; background-size: cover; background-position: center top; }
+.hand-hero-slide[data-active="true"] { opacity: 1; }
+.hand-hero-slide::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(15,47,58,0) 35%, rgba(15,47,58,.85) 100%); }
+.hand-hero-caption { position: absolute; inset-inline: 0; bottom: 0; z-index: 1; padding: 28px 32px; color: #fff; }
+.hand-hero-title { color: #fff; font-size: clamp(1.6rem, 3vw, 2.4rem); line-height: 1.15; margin: 0 0 6px; font-weight: 700; }
+.hand-hero-caption a, .hand-hero-caption p { color: #e6f7fb; font-size: 1.05rem; }
+.hand-hero-dots { position: absolute; z-index: 2; right: 16px; bottom: 16px; display: flex; gap: 4px; align-items: center; }
+/* alvo de toque de 32px com o ponto visível de 12px no centro */
+.hand-hero-dots button { width: 32px; height: 32px; border: 0; background: transparent; cursor: pointer; padding: 0; display: grid; place-items: center; color: #fff; border-radius: 50%; }
+.hand-hero-dot::before { content: ""; width: 12px; height: 12px; border-radius: 50%; background: rgba(255,255,255,.5); }
+.hand-hero-dot[aria-current="true"]::before { background: #fff; }
+.hand-hero-pause { font-size: 11px; letter-spacing: -1px; }
+.hand-hero-dots button:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+.hand-hero-caption { padding-right: 140px; }
+@media (max-width: 640px) { .hand-hero-caption { padding: 20px 20px 56px; } }
+@media (min-width: 768px) { .hand-hero { min-height: 420px; } }
+
+/* ---- carrossel de aplicações ---- */
+.hand-app { width: 200px; text-align: center; padding: 8px; }
+.hand-app img { width: 160px; height: 160px; object-fit: contain; }
+
+/* ---- conteúdo ---- */
+.hand-figure { margin: 0; }
+.hand-figure img { max-width: 100%; height: auto; display: block; border-radius: 8px; }
+.hand-entity-media { width: 180px; flex: 0 0 180px; display: flex; align-items: center; justify-content: center; }
+.hand-entity-media img { max-width: 100%; max-height: 120px; object-fit: contain; }
+@media (max-width: 640px) { .hand-entity { flex-direction: column !important; } .hand-entity-media { width: 100%; flex-basis: auto; justify-content: flex-start; } }
+.hand-profile img { width: 160px; height: 160px; border-radius: 50%; object-fit: cover; }
+.hand-tabpanel { padding-top: 24px; }
+
+/* ---- rodapé ---- */
+.hand-footer { background: var(--hand-ink); color: #cfe3e8; }
+.hand-footer a { color: #e6f7fb; }
+.hand-partners { display: grid; gap: 24px; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); align-items: center; padding-block: 32px; }
+/* o logo do Cemaden é branco (feito para fundo escuro): os logos ficam direto sobre o rodapé */
+.hand-partners a { display: flex; align-items: center; min-height: 72px; }
+.hand-partners img { max-width: 100%; height: auto; max-height: 64px; display: block; }
+.hand-footer-bottom { border-top: 1px solid rgba(255,255,255,.12); padding-block: 16px; display: flex; flex-wrap: wrap; gap: 12px; justify-content: space-between; font-size: .875rem; }
+
+/* Rodapé do Governo Federal (barra.brasil.gov.br): o script injeta o logo "Acesso à informação" em branco,
+   pensado para fundo escuro — continua a faixa escura do rodapé do site. */
+#footer-brasil { background: var(--hand-ink); padding-block: 8px 20px; min-height: 64px; }
+#footer-brasil #wrapper-footer-brasil { max-width: 1140px; padding-inline: 16px; }

@@ -1,0 +1,1686 @@
+[
+ {
+  "id": 9,
+  "route": "",
+  "lang": "pt",
+  "title": "HAND Model",
+  "heading": null,
+  "sidebar": false,
+  "nav": 9,
+  "alternate": {
+   "pt": "/",
+   "en": "/en/"
+  },
+  "blocks": [
+   {
+    "type": "hero",
+    "slides": [
+     {
+      "image": "%ASSET%/wp-content/uploads/2018/01/jprofile.png",
+      "title": "HAND Model",
+      "text": "Brasileiro desenvolve método rápido para prever enchentes",
+      "href": "http://www1.folha.uol.com.br/fsp/ciencia/26787-brasileiro-desenvolve-metodo-rapido-para-prever-enchentes.shtml"
+     },
+     {
+      "image": "%ASSET%/wp-content/uploads/2018/03/handprint.png",
+      "title": "HAND Model",
+      "text": "Aplicativo já disponível para uso"
+     }
+    ]
+   },
+   {
+    "type": "markdown",
+    "md": "## Introdução\n\nO Modelo HAND, _Height Above the Nearest Drainage_ (altura acima da drenagem mais próxima), é um revolucionário, robusto e versátil modelo digital de terreno normalizado pela rede de drenagem. O modelo HAND é também a base conceitual, física e computacional que permite explorar quantitativamente a topo-hidrologia da paisagem.\n\nUm conceito hidrologicamente revolucionário, o modelo HAND representa de maneira fisicamente substanciada o potencial gravitacional relativo dos terrenos – equivalente ao potencial localizado de drenagem – o que revela de maneira coerente e preditiva diversos processos superficiais relativos ao movimento, acumulação, infiltração, armazenamento e drenagem da água.\n\nO modelo HAND foi concebido e inteiramente desenvolvido no Brasil. O projeto HAND é coordenado por Antonio Donato Nobre (CCST INPE) e Luz Adriana Cuartas (CEMADEN), tendo contado com financiamento do projeto GeoClima (CNPq), pelo Modelo Brasileiro do Sistema Terrestre (BESM Rede Clima) e por fundos do CEMADEN.\n\n---\n\n## Aplicações\n\nO Modelo HAND tem diversas aplicações nos campos de:"
+   },
+   {
+    "type": "carousel",
+    "items": [
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/hidro.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Hidrologia"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/modelo.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Modelagem Ambiental"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/disaster.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Desastres Naturais"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/terrain.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Zoneamento de Terrenos"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/landscape.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Ecofisiologia da Paisagem"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/biogeoqui.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Biogeoquímica"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/pedo.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Pedologia"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/etc.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Entre Outras"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "route": "equipe/",
+  "lang": "pt",
+  "title": "Equipe",
+  "heading": null,
+  "sidebar": true,
+  "nav": null,
+  "alternate": {
+   "pt": "/equipe/",
+   "en": "/en/"
+  },
+  "blocks": [
+   {
+    "type": "entity",
+    "image": null,
+    "title": "Antonio Donato Nobre",
+    "blocks": [
+     {
+      "type": "markdown",
+      "md": "Pesquisador – INPE  \n[E-mail](mailto:anobre27@gmail.com) | [Currículo Lattes](http://lattes.cnpq.br/7435229418765108)"
+     }
+    ]
+   },
+   {
+    "type": "entity",
+    "image": null,
+    "title": "Luz Adriana Cuartas",
+    "blocks": [
+     {
+      "type": "markdown",
+      "md": "Pesquisadora – Cemaden  \n[E-mail](mailto:adriana.cuartas@cemaden.gov.br) | [Currículo Lattes](http://lattes.cnpq.br/4296700463843468)"
+     }
+    ]
+   },
+   {
+    "type": "entity",
+    "image": null,
+    "title": "Diogo Amore",
+    "blocks": [
+     {
+      "type": "markdown",
+      "md": "Assistente de pesquisa – Cemaden  \n[E-mail](mailto:diogo.amore@cemaden.gov.br) | [Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4894805A4)"
+     }
+    ]
+   },
+   {
+    "type": "entity",
+    "image": null,
+    "title": "Marlon da Silva",
+    "blocks": [
+     {
+      "type": "markdown",
+      "md": "Bolsista – Cemaden  \n[E-mail](mailto:marlon.silva@cemaden.gov.br) | [Currículo Lattes](http://lattes.cnpq.br/9331509602982993)"
+     }
+    ]
+   },
+   {
+    "type": "entity",
+    "image": null,
+    "title": "Jeison Santiago",
+    "blocks": [
+     {
+      "type": "markdown",
+      "md": "Ex-bolsista – INPE  \n[E-mail](mailto:jeison.santiago@gmail.com) | [Currículo Lattes](http://lattes.cnpq.br/3042652826454450)"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 101,
+  "route": "historia-e-creditos/",
+  "lang": "pt",
+  "title": "História e Créditos",
+  "heading": null,
+  "sidebar": false,
+  "nav": 101,
+  "alternate": {
+   "pt": "/historia-e-creditos/",
+   "en": "/en/about/"
+  },
+  "blocks": [
+   {
+    "type": "tabs",
+    "tabs": [
+     {
+      "label": "História",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "## _Breve histórico sobre o desenvolvimento do modelo HAND_\n\n### Uma narrativa contextualizadora\n\n_por Antonio Donato Nobre_\n\nDe 1999 a 2002, nossa equipe de pesquisadores do Projeto LBA instalou na Amazônia a primeira bacia hidrográfica instrumentada em floresta não perturbada, no Igarapé Asu, próximo a Manaus (descrita em Waterloo et al 2006 e Cuartas et al 2007). Alguns anos após a instalação, enfrentamos o desafio de representar as propriedades do solo e inferir a dinâmica da água do solo a partir apenas dos dados pontuais gerados pelos instrumentos de monitoramento. Os dados dispersos precisavam ser interpolados e extrapolados de forma significativa para uma grande área, de difícil acesso. O uso de técnicas passivas de imageamento bidimensional da superfície para estimar a possível distribuição das propriedades do solo era limitado pela impenetrabilidade do dossel florestal. No entanto, naquela época missões de sensoriamento orbital por radar geraram modelos de elevação da superfície (maquetes digitais em 3D, JERS-1, SRTM). Começamos então a buscar uma solução inovadora para mapear solos que pudesse conjugar inferência hidrológica com os dados topográficos a partir de então disponíveis.\n\nAo descrever a paisagem amazônica, muitos pesquisadores usam rotineiramente classificações qualitativas de terrenos, de acordo com o regime de saturação de água e a posição no relevo local (por exemplo, Sioli 1984, Chauvel et al, 1987). Para a Hileia amazônica (ampla extensão da bacia situada abaixo dos 600 m de altitude acima do nível do mar), era bastante comum usar os termos geomorfológicos / fisionômicos (ou fisiográficos), como – baixio, -encosta e -platô. Tal classificação pode ser tomada por seu valor prático, com base em propriedades locais percebidas dos terrenos, como uma descrição semântica de compartimentos da paisagem. No entanto, essa forma coloquial de se referir a classes de terrenos ostenta pouca ou nenhuma dimensão quantitativa. Sua capacidade preditiva ficava limitada pela dificuldade de fazer qualquer associação física significativa e reproduzível com a topografia (definida em relação ao nível do mar). Consideremos um exemplo sul-americano: um pântano pode ocorrer em qualquer altitude, perto da foz do rio Amazonas – quase ao nível do mar -, até nas margens do Lago Titicaca nos Andes, a 4000 m de altura. É claro, então, que a altura acima do nível do mar mescla e confunde os gradientes de encostas locais com gradientes para toda a paisagem, na escala continental.\n\nPrecisávamos isolar logicamente os ambientes locais e colocá-los em uma estrutura topográfica comparável. Essa foi minha visão que nos motivou a buscar o desenvolvimento de um novo modelo normalizado de terreno. A ideia era muito simples, não obstante parecia que ninguém havia visto isso antes. Alguns anos mais tarde, no âmbito do projeto de modelagem GEOMA, liderei um esforço para construir uma ferramenta computacional que poderia normalizar DEMs assim como havia imaginado, de modo que gradientes locais pudessem tornar-se fisicamente comparáveis ​​para áreas maiores. O desenvolvimento conceitual da classificação da paisagem em classes de terreno hidrologicamente relevantes (descritas em Nobre et al., 2011) precedeu o algoritmo HAND e, de fato, orientou seu desenvolvimento. Tínhamos no grupo alguma incredulidade de que tal normalização topográfica ainda não houvesse sido feita, então reviramos a (vasta) literatura sobre topografia-hidrologia, apenas para confirmar a inexistência de algo similar ao HAND.\n\nConfiantes na originalidade da ideia, por volta de 2005 realizamos os primeiros testes promissores para a bacia do Igarapé Asu. De posse do protótipo de ferramenta de normalização, voltamos para as classes de terreno verificadas em campo. Para testar a capacidade quantitativa da nova classificação normalizada de terreno realizamos uma análise dos dados de distribuição da água no solo. Com base na alocação de classes de profundidade do lençol freático, identificamos as contrastantes categorias de terrenos e as chamamos de -baixio (_waterlogged_, lençol superficial), ecótono (_ecotone_, lençol raso), encosta & platô (_slope_ & _plateau_, lençol profundo). A classificação HAND da paisagem foi inicialmente pensada para resolver uma interpolação em uma pequena bacia hidrográfica (13 km²). À medida que a aplicamos com sucesso para áreas circundantes, próximas e distantes do Igarapé Asu, concluímos que tínhamos nos deparado com uma robusta propriedade física da paisagem: a antes esquiva coerência topográfica da água no solo, agora correlacionada a uma nova dimensão física do terreno, a topologia normalizada HAND.\n\nEm Nobre et al (2011) introduzimos formalmente o modelo de terreno HAND, que captura com substância física a relação topográfica entre solo e água, demonstrando-o com ampla validação. A classificação de terrenos baseada no modelo HAND foi aplicada e verificada na bacia do Igarapé Asu, com resultados robustos também para duas áreas envolventes, o rio Cuieiras (500 km²) e a parte inferior da bacia do Rio Negro (18.000 km²). Depois deste desenvolvimento inicial na Amazônia central, aplicamos e verificamos a classificação HAND para áreas heterogêneas ainda maiores dispersas pelo Brasil (totalizando mais de 300 mil km², Nobre et al. 2011b). A classificação HAND também foi validada de forma independente para diferentes geomorfologias, com resultados igualmente robustos. Com Nobre et (2011) apresentamos os fundamentos físicos do modelo HAND e uma nova classificação quantitativa da paisagem. Tal classificação tornou-se uma referência muito informativa e útil, cujas classes têm reconhecida relevância global. Ao longo dos 10 anos de desenvolvimento inicial (2001 a 2011) logramos demonstrar que a antiga classificação semântica, baseada em percepções intuitivas do regime de água subterrânea e posição relativa no relevo, pode finalmente adquirir capacidade quantitativa e preditiva através do modelo HAND. A normalização do relevo via topologia HAND, e a classificação dos terrenos derivada dela, permitiram um olhar hidrológico inteiramente novo e revolucionário sobre a paisagem.\n\n### Referências\n\n[Chauvel, A., Lucas, Y., and Boulet, R.](https://link.springer.com/article/10.1007/BF01945546), 1987 On the genesis of the soil mantle of the region of Manaus, Central Amazonia, Brazil. Experientia 43, 234-240.\n\n[Cuartas, L. A., Tomasella, J., Nobre, A. D., Hodnett, M. G., Waterloo, M. J., Múnera, J. C.](https://www.sciencedirect.com/science/article/pii/S0168192307001037), 2007. Interception water-partitioning dynamics for a pristine rainforest in Central Amazonia: marked differences between normal and dry years. Agricultural and Forest Meteorology 145 (1–2), 69–83.\n\n[Nobre, A. D., Cuartas, L. A., Hodnett, M. et al](https://doi.org/10.1016/j.jhydrol.2011.03.051) 2011a. Height Above the Nearest Drainage – a hydrologically relevant new terrain model. _Journal of Hydrology_ 404, 13–29.\n\nNobre, A. D.; Silveira, A … Cuartas, L.A., 2011b. Aspectos físicos e geográficos das áreas ripárias no Brasil: análise preliminar da legislação. Ciência para o Código Florestal. São José dos Campos: Centro de Ciência para o Sistema Terrestre – INPE, 110 p. Relatório Cientifico.\n\n[Sioli, H.](http://www.springer.com/la/book/9789400965447), 1984. The Amazon: limnology and landscape ecology of a mighty tropical river and its basin. W. Junk, 763 p.\n\n[Waterloo, M. J., Oliveira, S. M., Drucker, D. P., Nobre, A. D., Cuartas, L. A., Hodnett, M. G., Wilma, I. L., Jans, W. P., Tomasella, J., Araujo, A. C., Pimentel, T. P., Munera Estrada, J. C.](http://onlinelibrary.wiley.com/doi/10.1002/hyp.6217/pdf), 2006. Export of organic carbon in run-off from an Amazonian rainforest black water catchment. Hydrological Processes 20, 2581–2597."
+       }
+      ]
+     },
+     {
+      "label": "Perguntas Frequentes",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "## _Perguntas Frequentes_\n\n### O Modelo HAND na previsão de áreas suscetíveis a enchentes\n\nO Modelo HAND (do inglês Height Above the Nearest Drainage, ou Altura Acima da Drenagem mais Próxima) é um novo modelo digital de terreno desenvolvido por um grupo de cientistas liderados por Antonio Donato Nobre, coordenador do Grupo de Modelagem de Terrenos do Centro de Ciência do Sistema Terrestre no INPE em São José dos Campos. Abaixo respostas às perguntas frequentes sobre esta nova ciência e uma de suas aplicações, em desastres naturais.\n\n### INTRODUÇÃO"
+       },
+       {
+        "type": "accordion",
+        "items": [
+         {
+          "title": "1) O que é o Modelo HAND?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "O Modelo HAND é uma forma diferente de olhar a paisagem. Fisicamente o modelo HAND é um novo tipo de superfície, produzida matematicamente a partir da superfície da terra, capturada em maquetes digitais de terreno."
+           }
+          ]
+         },
+         {
+          "title": "2) O que é uma maquete digital de terreno?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "É a representação da paisagem no computador, em 3D. Chamada também de topografia virtual, a maquete digital de terreno permite aplicar análises matemáticas para a descrição quantitativa e a compreensão das propriedades dos terrenos. Ela é normalmente produzida por imageamento aéreo ou de satélites em órbita, empregando técnicas de radar, laser ou estereoscopia ótica."
+           }
+          ]
+         },
+         {
+          "title": "3) Onde o Modelo HAND pode ser aplicado?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Em qualquer superfície para a qual se disponha da maquete digital."
+           }
+          ]
+         },
+         {
+          "title": "4) Quais são as aplicações do Modelo HAND?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Existem já algumas aplicações demonstradas. O Modelo HAND foi empregado para calcular e mapear solos encharcados (brejos) de áreas ripárias em várias regiões do Brasil como suporte para as discussões sobre as alterações do Código Florestal. O Modelo HAND foi também empregado na delimitação de zonas de risco de enchentes e deslizamentos para a zona metropolitana de São Paulo. Outras aplicações estão em desenvolvimento."
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "markdown",
+        "md": "### DESASTRES NATURAIS"
+       },
+       {
+        "type": "accordion",
+        "items": [
+         {
+          "title": "1) Previsão de áreas com risco de enchentes: o que faz o Modelo HAND?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "A partir da maquete digital do terreno o Modelo HAND gera mapas de proximidades topográficas ou desníveis relativos a cursos d’água. Estes desníveis relativos são boa indicação da susceptibilidade à enchente de cada ponto na paisagem."
+           }
+          ]
+         },
+         {
+          "title": "2) De que forma os desníveis relativos permitem classificar os terrenos como mais ou menos suscetíveis a enchentes?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Hipoteticamente, se um ponto está a 5 m HAND acima do rio mais próximo, este será mais suscetível a uma enchente do que outro ponto cujo desnível seja de 10 m HAND para o mesmo rio. Esta relação simples é difícil de se obter por outros métodos, já que o próprio curso d’água corre sobre terreno desnivelado."
+           }
+          ]
+         },
+         {
+          "title": "3) O Modelo HAND indica onde uma cheia vai acontecer?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Não exatamente. O Modelo HAND indica apenas a área onde uma cheia _pode_ acontecer, ou melhor, onde seria mais provável dela ocorrer, _no caso_ de haver água em excesso fluindo na superfície."
+           }
+          ]
+         },
+         {
+          "title": "4) O Modelo HAND indica quando uma enchente vai acontecer?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "**Não!** Para saber quando uma enchente pode ocorrer é necessário prever distribuição e intensidade de chuvas, além da captação e destinação da água de escoamento. Modelos meteorológicos preveem a ocorrência de chuvas, e modelos hidrológicos preveem os fluxos superficiais e as descargas dos rios."
+           }
+          ]
+         },
+         {
+          "title": "5) Qual o alcance para as previsões de áreas suscetíveis a enchentes?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Alcança toda e qualquer área para onde existam dados topográficos de qualidade."
+           }
+          ]
+         },
+         {
+          "title": "6) Registros dos níveis de enchentes passadas são necessários para o Modelo HAND prever áreas suscetíveis?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Não. O Modelo HAND indica áreas suscetíveis a enchentes apenas pela análise dos desníveis topográficos e da proximidade relativa dos rios. Ele pode ser aplicado a áreas que já sofreram enchentes - onde a sua capacidade pode ser testada e ajustada-, assim como pode ser aplicado para áreas que nunca sofreram enchentes. Em tempos de mudanças climáticas aceleradas, a capacidade preditiva do Modelo HAND pode mostrar-se de grande utilidade para as regiões onde enchentes são raras ou infrequentes."
+           }
+          ]
+         },
+         {
+          "title": "7) Quais as limitações do método de previsão de áreas suscetíveis a enchentes empregando o Modelo HAND?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "As principais limitações não estão no Modelo HAND em si, mas na resolução, no tipo e na qualidade dos dados da maquete digital de terreno."
+           }
+          ]
+         },
+         {
+          "title": "8) Como a resolução dos dados na maquete digital de terreno afeta a previsão de áreas suscetíveis a enchentes?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "A resolução de uma imagem é definida como a menor dimensão da superfície retratada, que ainda seja discernível na imagem. Uma foto feita do espaço a milhões de km pela sonda espacial_Voyager_ mostrou a Terra inteira representada por um único ponto azul-esmaecido; já uma foto do espaço mais próximo, feita com poderosas lentes de ampliação, permite distinguir um gato sobre um telhado. Os dados topográficos disponíveis (_SRTM_, topografia global feita em  voo do ônibus espacial) apresentam resolução horizontal de 90 m e vertical de 1 m. Outros tipos de dados podem apresentar resoluções muito mais finas, como o radar de banda _p_ que chega a poucos metros e _lidar_ que chega a centímetros. Quanto mais fina a resolução do dado maior a capacidade de discriminação de áreas pelo Modelo HAND."
+           }
+          ]
+         },
+         {
+          "title": "9) Como o tipo de dado na maquete digital de terreno afeta a previsão de áreas suscetíveis a enchentes?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Dois tipos principais de dados existem para geração de maquetes digitais de terreno: dados da superfície (chamados de DSM, como radar banda _x_ e estereoscópico ótico) e dados do terreno (chamados de DTM, como radar banda _p_, _lidar_ e interpolação de curvas de nível). Os DSM são amplamente disponíveis, mas como representam a superfície mais externa, apresentam artefatos gerados pela topografia do dossel da vegetação. Os DTM possuem capacidade de penetrar o dossel e representar a topografia real do solo, mas são caros e tem baixa disponibilidade. Para zona urbana, os dados de _lidar_ ou interpolação de curvas de nível permitem obter-se DTMs livres das edificações, uma condição importante para a geração de mapas de risco sem artefatos."
+           }
+          ]
+         },
+         {
+          "title": "10) Como a qualidade do dado na maquete digital de terreno afeta a previsão de áreas suscetíveis a enchentes?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "A qualidade dos mapas de risco gerados pelo Modelo HAND irá refletir a qualidade dos dados. O ajuste geográfico (georeferenciamento no caso de curvas de nível), os ruídos técnicos (no caso do radar), a cobertura de nuvens (no caso da estereoscopia ótica), entre outros possíveis problemas, interferem na qualidade da maquete digital de terreno."
+           }
+          ]
+         },
+         {
+          "title": "11) Como saber quais áreas são suscetíveis a deslizamentos de terra?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Os deslizamentos de terra e corridas de lama decorrem da instabilização de solos e rochas em encostas íngremes de morros e montanhas. Esforços enormes tem sido aplicados, há décadas, por centenas de estudiosos em vários países, na busca de melhorar as previsões para estes fenômenos. Muitos fatores influenciam na determinação da suscetibilidade dos terrenos. Exemplos são a inclinação da encosta, a geologia, o tipo e estado dos solos, a presença e estado da cobertura vegetal e a água no solo."
+           }
+          ]
+         },
+         {
+          "title": "12) Como o Modelo HAND pode ser utilizado no apoio a previsão de áreas suscetíveis a deslizamentos?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "A profundidade do lençol freático tem significância para a estabilidade de encostas, e tem relação com a distância relativa da água superficial. O Modelo HAND oferece indicações úteis sobre a posição do lençol freático. O Instituto de Pesquisas Tecnológicas de São Paulo ([IPT](http://www.ipt.br/)) utiliza classes de declividade como um dos indicadores de suscetibilidade a deslizamentos. No estudo que fizemos para a Zona Metropolitana de São Paulo, agregamos estas classes de declividade ao mapa de riscos hidrológicos. É uma abordagem inicial e simples para a previsão de zonas suscetíveis a deslizamentos."
+           }
+          ]
+         },
+         {
+          "title": "13) O Modelo HAND está pronto para utilização?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "A ciência básica do Modelo HAND, que explica porque e como funciona, está pronta. A implementação computacional do modelo está na fase de protótipo. A aplicação do Modelo HAND para o delineamento de zonas de risco ambiental ainda está em desenvolvimento, assim que aperfeiçoamentos requeridos de suas capacidades devem vir no médio prazo."
+           }
+          ]
+         },
+         {
+          "title": "14) Quando e como mapas de risco baseados no Modelo HAND serão disponibilizados para a sociedade?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "A disponibilização de mapas de risco baseados no Modelo HAND implica em responsabilidade técnica importante, o que requer amplas verificações. Apenas poucas áreas foram estudadas, áreas suficientes para demonstrar o conceito e a capacidade do Modelo HAND para este tipo de aplicação, mas ainda insuficientes para atender a demanda no campo. Ademais, o principal gargalo para a produção de mapas de risco HAND, os dados topográficos de alta resolução e qualidade, ainda precisam ser disponibilizados para as cidades e outras áreas. E a disponibilização de dados topográficos está fora da nossa área de atuação."
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "label": "Equipe",
+      "blocks": [
+       {
+        "type": "columns",
+        "cols": [
+         [
+          {
+           "type": "image",
+           "src": "%ASSET%/wp-content/uploads/2018/03/aprofile.png",
+           "alt": "",
+           "width": 270,
+           "height": 270
+          },
+          {
+           "type": "markdown",
+           "md": "## Antonio Donato Nobre\n\nPesquisador – INPE\n\nCoordenador do projeto\n\n[E-mail](mailto:anobre27@gmail.com) | [Currículo Lattes](http://lattes.cnpq.br/7435229418765108)"
+          }
+         ],
+         [
+          {
+           "type": "image",
+           "src": "%ASSET%/wp-content/uploads/2018/03/lprofile.png",
+           "alt": "",
+           "width": 270,
+           "height": 270
+          },
+          {
+           "type": "markdown",
+           "md": "## Luz Adriana Cuartas\n\nPesquisadora – Cemaden\n\nCoordenadora do projeto\n\n[E-mail](mailto:adriana.cuartas@cemaden.gov.br) | [Currículo Lattes](http://lattes.cnpq.br/4296700463843468)"
+          }
+         ]
+        ]
+       },
+       {
+        "type": "columns",
+        "cols": [
+         [
+          {
+           "type": "image",
+           "src": "%ASSET%/wp-content/uploads/2019/03/dprofile.png",
+           "alt": "",
+           "width": 270,
+           "height": 270
+          },
+          {
+           "type": "markdown",
+           "md": "## Diogo Amore\n\nBolsista – Cemaden\n\nAssistente de pesquisa\n\n[E-mail](mailto:diogo.amore@cemaden.gov.br) | [Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4894805A4)"
+          }
+         ],
+         [
+          {
+           "type": "image",
+           "src": "%ASSET%/wp-content/uploads/2018/03/mprofile.png",
+           "alt": "",
+           "width": 270,
+           "height": 270
+          },
+          {
+           "type": "markdown",
+           "md": "## Marlon da Silva\n\nEx-bolsista – Cemaden\n\nDesenvolvedor\n\n[E-mail](mailto:marlon.silva@cemaden.gov.br) | [Currículo Lattes](http://lattes.cnpq.br/9331509602982993)"
+          }
+         ]
+        ]
+       },
+       {
+        "type": "columns",
+        "cols": [
+         [
+          {
+           "type": "image",
+           "src": "%ASSET%/wp-content/uploads/2018/03/jprofile.png",
+           "alt": "",
+           "width": 270,
+           "height": 270
+          },
+          {
+           "type": "markdown",
+           "md": "## Jeison Santiago\n\nEx-colabrador – INPE\n\nDesenvolvedor\n\n[E-mail](mailto:jeison.santiago@gmail.com) | [Currículo Lattes](http://lattes.cnpq.br/3042652826454450)"
+          }
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "label": "Autores",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "## Créditos para o desenvolvimento do Modelo HAND e suas aplicações\n\n## _Autores_\n\n### **Modelo HAND**\n\n_Antonio D. Nobre_: intuição (insight), obtenção de dados de campo, concepção, teoria física, validação e coordenação.\n\n_Adriana Cuartas_: desenvolvimento, validação hidrológica e analise de dados.\n\n_Martin Hodnet_: revisão e validação hidrológica.\n\nOutros autores em Nobre, Cuartas, Hodnet et al (2011a): insumos valiosos\n\n### **Algoritmo HAND, ferramenta ENVI (IDL)**\n\n_Antonio D. Nobre_: supervisão e orientação para construção, calibração e validação do algoritmo; coordenação no desenvolvimento do algoritmo; artigo: estruturação, redação, submissão e interação com editor e revisores.\n\n_Camilo D. Rennó_: análise de MDEs, programação do algoritmo e formulação matemática.\n\n_Adriana Cuartas_: supervisão e orientação no desenvolvimento do algoritmo, calibração e validação do algoritmo.\n\nOutros autores em Rennó, Nobre, Cuartas et al (2008): insumos valiosos\n\n### **Algoritmo HAND, programa HAND-model (C++)**\n\n_Antonio D. Nobre_: coordenação, supervisão e orientação no aperfeiçoamento do algoritmo HAND e no desenvolvimento do programa HAND-Model;\n\n_Jeison P. Santiago_: aperfeiçoamento e otimização do algoritmo e programação do SIG HAND model\n\n_Adriana Cuartas_: supervisão e orientação para o aperfeiçoamento do algoritmo HAND e o programa HAND-Model;\n\n### **HAND model aplicado para mapeamento de terrenos e ecofisiologia**\n\n_Antonio D. Nobre_: orientação e supervisão critica na construção dos mapas HAND\n\n_Jeison P. Santiago_: construção dos mapas HAND em varias escalas para a América do Sul e Amazônia\n\n_Adriana Cuartas_: supervisão critica na construção dos mapas HAND\n\nOutros autores em Nobre, Cuartas et al (2014): insumos valiosos\n\n### **HAND model aplicado para modelagem hidrológica**\n\n_Adriana Cuartas_: concepção, teoria, implementação na modelagem hidrológica distribuída fisicamente baseada (DHSVM), parametrização, calibração e validação considerando as classes de terrenos HAND. Orientação na aplicação do modelo HAND à modelagem hidrológica.\n\n_Antonio D. Nobre_: suporte analítico na aplicação do modelo HAND à modelagem hidrológica\n\nOutros autores em Cuartas et al (2012): insumos valiosos\n\n_Adriana Alvarenga_: implementação na modelagem hidrológica distribuída fisicamente baseada (DHSVM) para uma bacia de cabeceira em área montanhosa. Parametrização, calibração e validação considerando as classes de terrenos HAND.\n\nOutros autores em Alvarenga et al (2017): insumos valiosos.\n\n### **HAND model aplicado para modelagem climática**\n\n_Jeison P. Santiago, Adriana Cuartas e Antonio D. Nobre:_ mapas HAND global (1km resol)\n\n_Paulo Nobre e colaboradores:_ inserção dos mapas HAND como fonte de parâmetros para modelagem de superfície no Brazilian Earth System Model (BESM)\n\n### **HAND model aplicado para mapeamento preditivo de inundações**\n\n_Antonio D. Nobre:_ concepção, estratégia de aplicação à estudos de inundação.\n\n_Adriana Cuartas:_ analise de dados HAND e de inundação\n\n_Marcos R. Momo:_ produção e condicionamento dos dados topográficos e de inundação para validação do HAND-contour\n\n_Marlon da Silva:_ implementação do HAND-contour (curva de nível HAND) no HAND model; desenvolvimento de algoritmo de nivelamento de tributários e hierarquia nos canais de drenagem. Validação com dados de inundação do Rio Itajaí\n\nOutros autores em Nobre, Cuartas, Momo et al (2015): insumos valiosos\n\n### **HAND model aplicado ao Ordenamento Territorial**\n\n_Antonio D. Nobre:_ coordenação e supervisão das analises de áreas riparias para suportar a discussão sobre o Código Florestal\n\n_Adriana Cuartas:_ supervisão da aplicação do Modelo HAND as analises de áreas riparias\n\n_André Silveira:_ Analise vetorial de rios e APPs\n\n_Grasiela Rodrigues:_ Analises espaciais raster"
+       }
+      ]
+     },
+     {
+      "label": "Instituições",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "## _Instituições_"
+       },
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/02/INPE_transparente.png",
+         "alt": "",
+         "width": 250,
+         "height": 200,
+         "href": "http://www.inpe.br"
+        },
+        "title": "INPE",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Instituto Nacional de Pesquisas Espaciais"
+         }
+        ],
+        "button": {
+         "label": "Saiba Mais",
+         "href": "http://www.inpe.br/"
+        }
+       },
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/01/INPA.png",
+         "alt": "",
+         "width": 249,
+         "height": 188,
+         "href": "http://portal.inpa.gov.br/index.php"
+        },
+        "title": "INPA",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Instituto Nacional de Pesquisas da Amazônia"
+         }
+        ],
+        "button": {
+         "label": "Saiba Mais",
+         "href": "http://portal.inpa.gov.br/index.php"
+        }
+       },
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/01/pequeno.png",
+         "alt": "",
+         "width": 250,
+         "height": 200,
+         "href": "http://www.cemaden.gov.br/"
+        },
+        "title": "Cemaden",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Centro Nacional de Monitoramento e Alerta de Desastres Naturais"
+         }
+        ],
+        "button": {
+         "label": "Saiba Mais",
+         "href": "http://www.cemaden.gov.br"
+        }
+       },
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/02/FURB.png",
+         "alt": "",
+         "width": 250,
+         "height": 175,
+         "href": "http://www.furb.br/"
+        },
+        "title": "FURB",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Universidade Regional de Blumenau"
+         }
+        ],
+        "button": {
+         "label": "Saiba Mais",
+         "href": "http://www.furb.br"
+        }
+       }
+      ]
+     },
+     {
+      "label": "Outras Pessoas",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "## _Outras Pessoas_\n\n-   **Antonio Huxley de Oliveira**: suporte trabalho de campo INPA;\n\n-   **Carlos Afonso Nobre:** suporte do Centro de Ciências do Sistema Terrestre INPE;\n\n-   **Carina Rodrigues**: suporte geoprocessamento HAND em inundações;\n\n-   **Gerald Jean Francis Banon:** suporte matemático para construção do algoritmo HAND;\n\n-   **Paulo Nobre:** suporte do projeto BESM/INPE."
+       }
+      ]
+     },
+     {
+      "label": "Projetos",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "## _Projetos_"
+       },
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/01/lba2_ft_pt-300x62.png",
+         "alt": "",
+         "width": 252,
+         "height": 52,
+         "href": "http://lba2.inpa.gov.br/"
+        },
+        "title": "LBA",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Experimento de larga escala da atmosfera de biosfera na Amazônia"
+         }
+        ],
+        "button": {
+         "label": "Saiba Mais",
+         "href": "http://lba2.inpa.gov.br/"
+        }
+       },
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/01/geoma02-1-300x136.jpg",
+         "alt": "",
+         "width": 247,
+         "height": 112,
+         "href": "http://www.geoma.lncc.br/"
+        },
+        "title": "GEOMA",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Rede de Modelagem Ambiental"
+         }
+        ],
+        "button": {
+         "label": "Saiba Mais",
+         "href": "http://www.geoma.lncc.br/"
+        }
+       },
+       {
+        "type": "entity",
+        "image": null,
+        "title": "Ecocarbon",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Ecologia do Carbono na Floresta Tropical Úmida"
+         }
+        ]
+       },
+       {
+        "type": "entity",
+        "image": null,
+        "title": "CarbonSink / CarboAmazonas",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Ecofisiologia e contabilidade do carbono"
+         }
+        ]
+       },
+       {
+        "type": "entity",
+        "image": null,
+        "title": "GeoClima",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Fluxos Canalizados de Umidade Mud. Clim., Adapt. Serviços Ambientais"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 114,
+  "route": "referencias/",
+  "lang": "pt",
+  "title": "Referências",
+  "heading": null,
+  "sidebar": false,
+  "nav": 114,
+  "alternate": {
+   "pt": "/referencias/",
+   "en": "/en/references/"
+  },
+  "blocks": [
+   {
+    "type": "tabs",
+    "tabs": [
+     {
+      "label": "Publicações",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "[Cuartas, L. A., Nobre, A. D., Hodnett, M. et al., 2012](https://www.sciencedirect.com/science/article/pii/S002216941200042X). Distributed hydrological modeling of a micro-scale rainforest watershed in Amazonia: Model evaluation and advances in calibration using the new HAND terrain model. _Journal of Hydrology_: 404, 13–29.\n\nNobre, A. D., 2011. Novas Geotecnologias no _Ordenamento_ do Ordenamento Territorial. Antonio Donato Nobre, INPA & CST INPE 63ª Reuniao Anual SBPC, Goiânia.\n\n[Nobre, A.D. 2011b](https://www.hydrol-earth-syst-sci-discuss.net/8/C2439/2011/hessd-8-C2439-2011-print.pdf), Brief History on the development of the HAND model in Interactive comment on “Land classification based on hydrological landscape units” by S. Gharari et al. _Hydrol. Earth Syst. Sci. Discuss._, 8, C2439–C2445,\n\n[Nobre, A.D., Cuartas, L.A., Momo, M.R., et al](http://doi.org/10.1002/hyp.10581). 2015. HAND contour: a new proxy predictor of inundation extent. _Hydrological Processes._ DOI: 10.1002/hyp.10581\n\n[Nobre, A. D., Cuartas, L. A., Hodnett, M. et al](https://doi.org/10.1016/j.jhydrol.2011.03.051) 2011a. Height Above the Nearest Drainage – a hydrologically relevant new terrain model. _Journal of Hydrology_ 404, 13–29.\n\n[Nobre, A. D., Cuartas, L. A., Hodnett, M., Saleska, S](http://adsabs.harvard.edu/abs/2014AGUFM.B54C..05N). 2014. Fine-Scale Relief in the Amazon Drives Large Scale Ecohydrological Processes. _AGU Fall Meeting_, Session: Global Forest Dynamics and Interactions with a Changing Climate III, San Francisco.\n\nNobre, A. D.; Silveira, A.; Rodrigues, G.; … Cuartas, L.A., 2011. Aspectos físicos e geográficos das áreas ripárias no Brasil: análise preliminar da legislação. Ciência para o Código Florestal. São José dos Campos: Centro de Ciência para o Sistema Terrestre – INPE, 110 p. Relatório Científico.\n\n[Rennó, C.D., Nobre, A.D., Cuartas, et al](https://www.sciencedirect.com/science/article/pii/S003442570800120X) 2008. HAND, a new terrain descriptor using SRTM-DEM. Remote Sensing of Environment 112, 3469–3481."
+       }
+      ]
+     },
+     {
+      "label": "Referências externas",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "[Chauvel, A., Lucas, Y., and Boulet, R.](https://link.springer.com/article/10.1007/BF01945546), 1987 On the genesis of the soil mantle of the region of Manaus, Central Amazonia, Brazil. Experientia 43, 234-240.\n\n[Cuartas, L. A., Tomasella, J., Nobre, A. D., Hodnett, M. G., Waterloo, M. J., Múnera, J. C.](https://www.sciencedirect.com/science/article/pii/S0168192307001037), 2007. Interception water-partitioning dynamics for a pristine rainforest in Central Amazonia: marked differences between normal and dry years. Agricultural and Forest Meteorology 145 (1–2), 69–83.\n\n[Rahmati, O., Kornejady, A., Samadi, M., Nobre, A.D.. Melesse, A.M.](http://www.sciencedirect.com/science/article/pii/S1364815217310034) 2018. Development of an automated GIS tool for reproducing the HAND terrain model, _Environmental Modelling & Software_ 102, 1-12.\n\n[Sioli, H.](http://www.springer.com/la/book/9789400965447), 1984. The Amazon: limnology and landscape ecology of a mighty tropical river and its basin. W. Junk, 763 p.\n\n[Waterloo, M. J., Oliveira, S. M., Drucker, D. P., Nobre, A. D., Cuartas, L. A., Hodnett, M. G., Wilma, I. L., Jans, W. P., Tomasella, J., Araujo, A. C., Pimentel, T. P., Munera Estrada, J. C.](http://onlinelibrary.wiley.com/doi/10.1002/hyp.6217/pdf), 2006. Export of organic carbon in run-off from an Amazonian rainforest black water catchment. Hydrological Processes 20, 2581–2597."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 161,
+  "route": "en/",
+  "lang": "en",
+  "title": "HAND Model",
+  "heading": null,
+  "sidebar": false,
+  "nav": 161,
+  "alternate": {
+   "pt": "/",
+   "en": "/en/"
+  },
+  "blocks": [
+   {
+    "type": "hero",
+    "slides": [
+     {
+      "image": "%ASSET%/wp-content/uploads/2018/01/jprofile.png",
+      "title": "HAND Model",
+      "text": "Brazilian scientist develops a fast method to preview floods",
+      "href": "http://www1.folha.uol.com.br/fsp/ciencia/26787-brasileiro-desenvolve-metodo-rapido-para-prever-enchentes.shtml"
+     },
+     {
+      "image": "%ASSET%/wp-content/uploads/2018/03/handprint.png",
+      "title": "HAND Model",
+      "text": "HAND Model Application is already available!",
+      "href": "/en/hand-model/"
+     }
+    ]
+   },
+   {
+    "type": "markdown",
+    "md": "## Introduction\n\nThe HAND Model, Height Above the Nearest Drainage, is a revolutionary, robust and versatile digital terrain model normalized by the drainage network. The HAND model is also the conceptual, physical and computational basis for quantitative exploration of the landscape’s topo-hydrology.\n\nA hydrologically revolutionary concept, the HAND model substantiates physically the terrain’s relative gravitational potential – or the equivalent to the localized drainage potential – which reveals in a coherent and predictive way several surface processes related to water movement, accumulation, infiltration, storage and drainage.\n\nThe HAND model was conceived and developed in Brazil. The project is coordinated by Antonio Donato Nobre (Center for Earth System Science CCST at the National Institute for Space Research INPE) and Luz Adriana Cuartas (Center for Monitoring and Alert of Natural Disasters CEMADEN), with funding from the GeoClima project (CNPq) and the Brazilian Terrestrial System Model (BESM Rede Clima).\n\n---\n\n## Applications"
+   },
+   {
+    "type": "carousel",
+    "items": [
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/hidro.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Hydrology"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/modelo.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Environmental Modeling"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/disaster.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Natural Disasters"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/terrain.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Terrains Zoning"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/landscape.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Landscape Ecophysiology"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/biogeoqui.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Biogeochemistry"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/pedo.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Pedology"
+     },
+     {
+      "image": {
+       "src": "%ASSET%/wp-content/uploads/2018/03/etc.png",
+       "alt": "",
+       "width": 200,
+       "height": 200
+      },
+      "title": "Among Others"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 201,
+  "route": "en/about/",
+  "lang": "en",
+  "title": "About",
+  "heading": null,
+  "sidebar": false,
+  "nav": 201,
+  "alternate": {
+   "pt": "/historia-e-creditos/",
+   "en": "/en/about/"
+  },
+  "blocks": [
+   {
+    "type": "tabs",
+    "tabs": [
+     {
+      "label": "History",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "## Brief History on the HAND model Development\n\n### A contextualizing narrative\n\n_by Antonio Donato Nobre_\n\nFrom 1999 to 2002, our LBA Project’s research team installed the first instrumented hydrological catchment in the Amazon, at the Igarapé Asu, in area of undisturbed forest near Manaus (described in Waterloo et al 2006 and Cuartas et al 2007). Some years after the installation, we faced the challenge of significantly representing the soil properties and inferring soil water dynamics to a large, hard to reach area, using only the point data generated by the monitoring instruments. Due to the impenetrability of the forest canopy, the use of passive two-dimensional surface imaging techniques to estimate the possible distribution of soil properties was limited. However, at that time, orbital radar sensing missions generated surface elevation models (3D digital topography, JERS-1, SRTM). We began to search for an innovative soil mapping approach that could combine hydrological inference with the new topographic data.\n\nIn describing the Amazon landscape, many researchers routinely use qualitative classifications of terrain types, according to the water saturation regime and local relief position (eg, Sioli 1984, Chauvel et al., 1987). For the Amazonian Hileia (wide expanse of the basin lying below 600 m above sea level), it is quite common to use geomorphological / physiognomic (or physiographic) terms, as – lowland (_baixio_), -slope (_encosta_) and –plateau (_platô_). Such a classification can be taken for its practical value, based on local perceived terrain properties, as a semantic description of landscape compartments. Yet, this colloquial form of referring to classes of terrain carry little or no quantitative dimension. Its predictive capacity was thwarted by the difficulty of making any significant and reproducible physical association with the topography (defined in relation to sea level). Consider a South American example: a swamp can occur at any altitude, from near the mouth of the Amazon River – almost at sea level – or all the way up to the shores of Lake Titicaca in the Andes at 4000 m A.S.L. It is clear, then, that height above sea level mingles and confuses local hillslope gradients with continental scale landscape gradients.\n\nWe needed to isolate local environments and place them in a comparable topographic framework. This was my insight that motivated us to seek the development of a new normalized terrain model. The idea seemed very simple, yet, to our knowledge, no one had seen it before. A few years later, under the GEOMA modeling project, I led an effort to build a computational tool that could normalize DEMs just as I had imagined, so that local gradients could become physically comparable over larger areas. The conceptual development of the landscape classification in hydrologically relevant terrain classes (described in Nobre et al., 2011) preceded the HAND algorithm and, in fact, guided its development. We had in the group some disbelief that such topographical normalization had not yet been made, so we revised the (vast) literature on topography-hydrology, only to confirm the inexistence of something similar to the HAND model.\n\nConfident in the originality of the idea, around 2005 we made the first promising tests for the Asu catchment. With the prototype of the DEM tool, we focused on the field verified classes. To test the quantitative capacity of the new normalized terrain classification, we performed an analysis of the soil water distribution data. Basing the class allocation onto our depth to water table data, we nominated the matching field classes as _waterlogged_ (saturated to the surface), _ecotone_ (shallow water table), _slope_ and _plateau_ (deeper water table). The HAND landscape classification was initially intended to solve an interpolation for a small river catchment (13 km²). As we applied it to surrounding ungauged catchments, near and far from Asu, we became convinced that we had discovered a robust physical property of the landscape: the elusive topographical coherence of soil-water, correlated to a new dimension of terrain, the _HAND normalized topology_.\n\nIn Nobre et al (2011) we introduced the HAND terrain model, which captures with physical substance the topographic relation between soil and water, demonstrating it with ample validation. The land classification based on the HAND model was applied and verified in the Asu catchment, with robust results also for two surrounding areas, the Cuieiras river (500 km²) and the lower part of the Rio Negro basin (18,000 km²). After this initial development in central Amazonia, we applied and verified the HAND classification for even larger heterogeneous areas, dispersed throughout Brazil (more than 300 thousand km², Nobre et al. 2011b). The HAND classification was also validated independently for different geomorphologies, with equally robust results. With Nobre et al. (2011) we presented the physical foundations and a new quantitative classification of the landscape. Such classification has become a very informative and useful reference, whose classes have recognized global relevance. Throughout the 10 years of initial development (2001 to 2011) we managed to demonstrate that the old semantic classification, based on intuitive perceptions of the groundwater regime and relative position in the relief, could finally acquire quantitative and predictive capacity through the HAND model. The normalization of relief via the HAND topology, and the classification of the terrain derived from it, allowed an entirely new and revolutionary hydrological view of the landscape.\n\nReferences\n\nChauvel, A., Lucas, Y., and Boulet, R., 1987 On the genesis of the soil mantle of the region of Manaus, Central Amazonia, Brazil. Experientia 43, 234-240.\n\nCuartas, L.A., Tomasella, J., Nobre, A.D., Hodnett, M.G., Waterloo, M.J., Múnera, J.C., 2007. Interception water-partitioning dynamics for a pristine rainforest in Central Amazonia: marked differences between normal and dry years. Agricultural and Forest Meteorology 145 (1–2), 69–83.\n\nNobre, A.D., Cuartas, L.A., Hodnett, et al 2011. Height Above the Nearest Drainage – a hydrologically relevant new terrain model. Journal of Hydrology 404, 13–29.\n\nNobre, A. D.; Silveira, A … Cuartas, L.A., 2011b. Aspectos físicos e geográficos das áreas ripárias no Brasil: análise preliminar da legislação. Ciência para o Código Florestal. São José dos Campos: Centro de Ciência para o Sistema Terrestre – INPE, 110 p. Relatório Cientifico.\n\nSioli, H., 1984. The Amazon: limnology and landscape ecology of a mighty tropical river and its basin. W. Junk, 763 p.\n\nWaterloo, M.J., Oliveira, S.M., Drucker, D.P., Nobre, A.D., Cuartas, L.A., Hodnett, M.G., Wilma, I.L., Jans, W.P., Tomasella, J., Araujo, A.C., Pimentel, T.P., Munera Estrada, J.C., 2006. Export of organic carbon in run-off from an Amazonian rainforest black water catchment. Hydrological Processes 20, 2581–2597."
+       }
+      ]
+     },
+     {
+      "label": "FAQ",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "## HAND Model applied in the prediction of areas susceptible to floods\n\nHAND (Height Above the Nearest Drainage) model is a new digital terrain model developed by a group of cientists leaded by Antonio Donato Nobre, coordinator of Terrain Modeling Group in Center of Earth System Science in INPE at São José dos Campos, Brazil. Here, we present some frequent answers about this new science and one of these applications in natural disasters.\n\n### INTRODUCTION"
+       },
+       {
+        "type": "accordion",
+        "items": [
+         {
+          "title": "1) What is HAND model?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "HAND model is a different way to look the landscape. Physically, HAND model is a new surface type, produced mathematically from the land surface, captured on digital terrain models."
+           }
+          ]
+         },
+         {
+          "title": "2) What is a digital terrain model?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "It is the 3D landscape representation in the computer. Also known as virtual topography, the terrain digital model allows to apply mathematical analysis for the quantitative description and the lecture of terrain properties. It is made normally by aerial imaging or satellites in orbit, employing techniques by radar, laser or optical stereoscopy."
+           }
+          ]
+         },
+         {
+          "title": "3) Where is HAND model can be applied?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "On any surface for which the digital model is available."
+           }
+          ]
+         },
+         {
+          "title": "4) Which are HAND model applications?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Some applications have been demonstrated. HAND Model has been employed to calculate and map soaked soils (swamps) of riparian areas in many Brazilian regions as support for discussions about Forestry Code. HAND Model has been employed also in the delimitation of flooding and landslide risk areas for the metropolitan region of São Paulo. Other applications are being developed."
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "type": "markdown",
+        "md": "### NATURAL DISASTERS"
+       },
+       {
+        "type": "accordion",
+        "items": [
+         {
+          "title": "1) Previsão de áreas com risco de enchentes: what does HAND Model do?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "From terrain digital model, HAND Model generates topographic neighborhood maps or slopes related to a watercourse. These slopes denote good indication of susceptibility to flooding for each point on the landscape."
+           }
+          ]
+         },
+         {
+          "title": "2) In what way do the related slopes allow to classify terrains as more or less susceptible to floods?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Hypothetically, if a point is at 5 m HAND above the closest river, it will be more susceptible to a flood than another point whose slope is 10 m HAND to the same river. This simple relation is hard to get by other methods, once the same watercourse flows on sloped terrain."
+           }
+          ]
+         },
+         {
+          "title": "3) Does HAND Model indicate where a flood will happen?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Not exactly. HAND Model indicates only the area where a flood can occur, i. e., where would be more probable to occur a flood in the case of there is water in excess flowing over the landscape."
+           }
+          ]
+         },
+         {
+          "title": "4) Does HAND Model indicate when a flood will happen?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "**No!** To know when a flood can happen, it is needed to predict the distribution and intensity of rains, in addition to the raising and destination of the runoff water. Meteorological models predict the occurrence of the rains and hydrological models predict the surface flows and the rivers flows."
+           }
+          ]
+         },
+         {
+          "title": "5) Qual o alcance para as previsões de áreas suscetíveis a enchentes?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "It reaches each and every area where exist good topographic data."
+           }
+          ]
+         },
+         {
+          "title": "6) Registros dos níveis de enchentes passadas são necessários para o Modelo HAND prever áreas suscetíveis?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Demo Content"
+           }
+          ]
+         },
+         {
+          "title": "7) Quais as limitações do método de previsão de áreas suscetíveis a enchentes empregando o Modelo HAND?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Demo Content"
+           }
+          ]
+         },
+         {
+          "title": "8) Como a resolução dos dados na maquete digital de terreno afeta a previsão de áreas suscetíveis a enchentes?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Demo Content"
+           }
+          ]
+         },
+         {
+          "title": "9) Como o tipo de dado na maquete digital de terreno afeta a previsão de áreas suscetíveis a enchentes?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Demo Content"
+           }
+          ]
+         },
+         {
+          "title": "10) Como a qualidade do dado na maquete digital de terreno afeta a previsão de áreas suscetíveis a enchentes?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Demo Content"
+           }
+          ]
+         },
+         {
+          "title": "11) Como saber quais áreas são suscetíveis a deslizamentos de terra?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Demo Content"
+           }
+          ]
+         },
+         {
+          "title": "12) Como o Modelo HAND pode ser utilizado no apoio a previsão de áreas suscetíveis a deslizamentos?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Demo Content"
+           }
+          ]
+         },
+         {
+          "title": "13) Is HAND Model ready to use?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Demo Content"
+           }
+          ]
+         },
+         {
+          "title": "14) Quando e como mapas de risco baseados no Modelo HAND are available to the society?",
+          "blocks": [
+           {
+            "type": "markdown",
+            "md": "Demo Content"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "label": "Team",
+      "blocks": [
+       {
+        "type": "columns",
+        "cols": [
+         [
+          {
+           "type": "image",
+           "src": "%ASSET%/wp-content/uploads/2018/03/aprofile.png",
+           "alt": "",
+           "width": 270,
+           "height": 270
+          },
+          {
+           "type": "markdown",
+           "md": "## Antonio Donato Nobre\n\nResearcher – INPE\n\nProject coordinator\n\n[E-mail](mailto:anobre27@gmail.com) | [Currículo Lattes](http://lattes.cnpq.br/7435229418765108)"
+          }
+         ],
+         [
+          {
+           "type": "image",
+           "src": "%ASSET%/wp-content/uploads/2018/03/lprofile.png",
+           "alt": "",
+           "width": 270,
+           "height": 270
+          },
+          {
+           "type": "markdown",
+           "md": "## Luz Adriana Cuartas\n\nResearcher – Cemaden\n\nProject coordinator\n\n[E-mail](mailto:adriana.cuartas@cemaden.gov.br) | [Currículo Lattes](http://lattes.cnpq.br/4296700463843468)"
+          }
+         ]
+        ]
+       },
+       {
+        "type": "columns",
+        "cols": [
+         [
+          {
+           "type": "image",
+           "src": "%ASSET%/wp-content/uploads/2018/03/mprofile.png",
+           "alt": "",
+           "width": 270,
+           "height": 270
+          },
+          {
+           "type": "markdown",
+           "md": "## Marlon da Silva\n\nFellow – Cemaden\n\nDeveloper\n\n[E-mail](mailto:marlon.silva@cemaden.gov.br) | [Currículo Lattes](http://lattes.cnpq.br/9331509602982993)"
+          }
+         ],
+         [
+          {
+           "type": "image",
+           "src": "%ASSET%/wp-content/uploads/2018/03/jprofile.png",
+           "alt": "",
+           "width": 270,
+           "height": 270
+          },
+          {
+           "type": "markdown",
+           "md": "## Jeison Santiago\n\nCollaborator – INPE\n\nDeveloper\n\n[E-mail](mailto:jeison.santiago@gmail.com) | [Currículo Lattes](http://lattes.cnpq.br/3042652826454450)"
+          }
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "label": "Credits",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "**HAND Model**\n\n_Antonio D. Nobre_: intuition (insight), field data collection, conception, physical theory, validation and coordination.\n\n_Adriana Cuartas_: conception, physical theory, development, hydrological validation and data analysis.\n\n_Martin Hodnet_: hydrological review and validation.\n\nOther authors in Nobre, Cuartas, Hodnet et al (2011a): valuable inputs\n\n**HAND Algorithm, ENVI script (IDL)**\n\n_Antonio D. Nobre_: supervision and guidance for building, calibrating and validating the algorithm; coordination in the development of the algorithm; article: structuring, writing, submission and interaction with editor and reviewers.\n\n_Camilo D. Rennó_: DEM analysis, algorithm programming and mathematical formulation.\n\n_Adriana Cuartas_: supervision and orientation in the development of the algorithm, calibration and validation of the algorithm.\n\nOther authors in Rennó, Nobre, Cuartas et al (2008): valuable inputs\n\n**HAND algorithm, HAND-model program (C ++)**\n\n_Antonio D. Nobre_: coordination, supervision and orientation in the improvement of the HAND algorithm and in the development of the HAND-Model program;\n\n_Jeison P. Santiago_: improvement and optimization of the algorithm; programming of the HAND model GIS.\n\n_Adriana Cuartas_: supervision and orientation for the improvement of the HAND algorithm and the HAND-Model program;\n\n**HAND model applied for land mapping and ecophysiology**\n\n_Antonio D. Nobre_: critical guidance and supervision in the construction of HAND maps\n\n_Jeison P. Santiago_: construction of HAND maps at various scales for South America and the Amazon\n\n_Adriana Cuartas_: critical supervision in the construction of HAND maps\n\nOther authors in Nobre, Cuartas et al (2014): valuable inputs\n\n**HAND model applied for hydrological modeling**\n\n_Adriana Cuartas_: conception, theory, implementation in physically based distributed hydrological modeling (DHSVM), parameterization, calibration and validation considering HAND terrain classes. Guidance on the application of the HAND model to hydrological modeling.\n\n_Antonio D. Nobre_: analytical support in the application of the HAND model to hydrological modeling\n\nOther authors in Cuartas et al (2012): valuable inputs\n\n_Adriana Alvarenga_: implementation in physically based distributed hydrological modeling (DHSVM) for a bedside basin in a mountainous area. Parameterization, calibration and validation considering HAND land classes.\n\nOther authors in Alvarenga et al (2017): valuable inputs.\n\n**HAND model applied for climate modeling**\n\n_Jeison P. Santiago, Adriana Cuartas and Antonio D. Nobre_: Preparation of global maps HAND (1km resol)\n\n1.  _Nobre_ and collaborators: Insertion of HAND maps as source of parameters for surface modeling in the Brazilian Earth System Model (BESM)\n\n**HAND model applied for predictive flood mapping**\n\n_Antonio D. Nobre_: conception, strategy of application to flood studies.\n\n_Marcos R. Momo_: production and conditioning of topographic and flood data for HAND-contour validation\n\n_Adriana Cuartas_: Analysis of HAND and flood data.\n\n_Marlon da Silva_: implementation of the HAND-contour in the HAND model; development of tributary leveling algorithm and drainage channels HAND hierarchy. Validation with data from the Itajaí River flood\n\nOther authors in Nobre, Cuartas, Momo et al (2015): valuable inputs\n\n**HAND model applied to Territorial Planning**\n\n_Antonio D. Nobre_: coordination and supervision of analyzes of riparian areas to support the discussion on the Forest Code\n\n_Adriana Cuartas_: supervision of the application of the HAND Model analysis of riparian areas\n\n_André Silveira_: Vector analysis of rivers and APPs\n\n_Grasiela Rodrigues_: Raster spatial analysis\n\nOther authors in Nobre, Cuartas, Silveira et al (2011b): valuable inputs\n\n_Institutions_\n\nNational Institute of Space Research (INPE)\n\nNational Institute of Amazonian Research (INPA)\n\nCenter for Monitoring and Alert of Natural Disasters (CEMADEN)\n\nRegional University of Blumenau (FURB)\n\n_Other_ _People_\n\nAntonio Huxley de Oliveira \\[support field work INPA\\] Carlos Afonso Nobre \\[support of the Center of Sciences of the Terrestrial System\\] Carina Rodrigues \\[HAND geoprocessing support in floods\\] Gerald Jean Francis Banon \\[mathematical support for the HAND algorithm\\] Paulo Nobre \\[BESM project support\\]\n\n_Projects_\n\nLBA \\[Large-scale biosphere atmosphere experiment in the Amazon\\] GEOMA \\[Environmental Modeling Network\\] Ecocarbon \\[Carbon Ecology in the Tropical Rainforest\\] CarbonSink / CarboAmazonas \\[Ecophysiology and carbon accounting\\] GeoClima \\[Channeled Moisture Flows, Clim., Adapt. Environmental services\\]\n\nRede Clima \\[Climate Change Brazilian Research Network\\]"
+       }
+      ]
+     },
+     {
+      "label": "Institutions",
+      "blocks": [
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/02/INPE_transparente.png",
+         "alt": "",
+         "width": 250,
+         "height": 200,
+         "href": "http://www.inpe.br"
+        },
+        "title": "INPE",
+        "blocks": [],
+        "button": {
+         "label": "More Info",
+         "href": "http://www.inpe.br/"
+        }
+       },
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/01/INPA.png",
+         "alt": "",
+         "width": 249,
+         "height": 188,
+         "href": "http://portal.inpa.gov.br/index.php"
+        },
+        "title": "INPA",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "National Institute for Amazonian Research"
+         }
+        ],
+        "button": {
+         "label": "More Info",
+         "href": "http://portal.inpa.gov.br/index.php"
+        }
+       },
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/01/pequeno.png",
+         "alt": "",
+         "width": 250,
+         "height": 200,
+         "href": "http://www.cemaden.gov.br"
+        },
+        "title": "Cemaden",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "National Center for Monitoring and Early Warnings of Natural Disasters"
+         }
+        ],
+        "button": {
+         "label": "More Info",
+         "href": "http://www.cemaden.gov.br"
+        }
+       },
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/02/FURB.png",
+         "alt": "",
+         "width": 250,
+         "height": 175,
+         "href": "http://www.furb.br/"
+        },
+        "title": "FURB",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Regional University of Blumenau"
+         }
+        ],
+        "button": {
+         "label": "More Info",
+         "href": "http://www.furb.br"
+        }
+       }
+      ]
+     },
+     {
+      "label": "Collaborators",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "-   **Gerald Jean Francis Banon** mathematical support for the HAND algorithm;\n\n-   **Carlos Afonso Nobre** INPE Earth System Science Center support;\n\n-   **Paulo Nobre** INPE BESM Earth System Model project support."
+       }
+      ]
+     },
+     {
+      "label": "Support",
+      "blocks": [
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/01/lba2_ft_pt-300x62.png",
+         "alt": "",
+         "href": "http://lba2.inpa.gov.br/"
+        },
+        "title": "LBA",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Large Scale Biosphere Atmosphere Experiment in Amazonia"
+         }
+        ],
+        "button": {
+         "label": "More info",
+         "href": "http://lba2.inpa.gov.br/"
+        }
+       },
+       {
+        "type": "entity",
+        "image": {
+         "src": "%ASSET%/wp-content/uploads/2018/01/geoma02-1-300x136.jpg",
+         "alt": "",
+         "href": "http://www.geoma.lncc.br/"
+        },
+        "title": "GEOMA",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Environmental Modeling Network"
+         }
+        ],
+        "button": {
+         "label": "More info",
+         "href": "http://www.geoma.lncc.br/"
+        }
+       },
+       {
+        "type": "entity",
+        "image": null,
+        "title": "Ecocarbon",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Carbon Ecology in the Rainforest"
+         }
+        ]
+       },
+       {
+        "type": "entity",
+        "image": null,
+        "title": "CarbonSink / CarboAmazonas",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Ecophysiological Carbon Accounting"
+         }
+        ]
+       },
+       {
+        "type": "entity",
+        "image": null,
+        "title": "GeoClima",
+        "blocks": [
+         {
+          "type": "markdown",
+          "md": "Fluxos Canalizados de Umidade Mud. Clim., Adapt. Serviços Ambientais"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 289,
+  "route": "baixar-hand-model/",
+  "lang": "pt",
+  "title": "Baixar HAND Model",
+  "heading": null,
+  "sidebar": false,
+  "nav": null,
+  "alternate": {
+   "pt": "/baixar-hand-model/",
+   "en": "/en/download-the-hand-model/"
+  },
+  "blocks": [
+   {
+    "type": "downloads",
+    "items": [
+     {
+      "type": "download",
+      "title": "Versão Linux",
+      "label": "Baixe HAND Linux 1.0 beta",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2019/03/HANDMODEL_Linux.7z"
+     },
+     {
+      "type": "download",
+      "title": "Versão MacOS",
+      "label": "Baixe HAND MacOS 1.0 beta",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2019/06/HANDMODEL.app.7z"
+     },
+     {
+      "type": "download",
+      "title": "Versão Windows",
+      "label": "Baixe HAND Windows 1.0 beta",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2019/03/release.rar"
+     }
+    ]
+   },
+   {
+    "type": "markdown",
+    "md": "**Descrição:**\n\n-   Topologia e classes HAND;\n-   HAND Contour;\n-   HAND Canal;\n-   Máscara de Canal HAND."
+   },
+   {
+    "type": "downloads",
+    "items": [
+     {
+      "type": "download",
+      "title": "Manual do Usuário",
+      "label": "Ver Manual",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2018/02/HAND-Model.pdf"
+     }
+    ]
+   },
+   {
+    "type": "markdown",
+    "md": "**Requisitos recomendados para a instalação do HAND Model:**\n\n-   Processador Dual Core 1,3 GHz;\n-   256 MB de armazenamento em disco;\n-   2 GB memória RAM.\n\n**Versões anteriores:**"
+   },
+   {
+    "type": "downloads",
+    "items": [
+     {
+      "type": "download",
+      "title": "",
+      "label": "Baixe HAND Linux 0.8.1 beta",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2018/05/buildHand.tar.gz"
+     },
+     {
+      "type": "download",
+      "title": "",
+      "label": "Baixe HAND MacOS 0.8.1 beta",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2018/05/buildHandMac.zip"
+     },
+     {
+      "type": "download",
+      "title": "",
+      "label": "Baixe HAND MacOS 0.6.4",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2018/04/HAND.dmg"
+     },
+     {
+      "type": "download",
+      "title": "",
+      "label": "Baixe HAND Windows 0.6.4",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2018/04/HAND_WIN_VERSION.zip"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 307,
+  "route": "modelo-hand/",
+  "lang": "pt",
+  "title": "Modelo HAND",
+  "heading": null,
+  "sidebar": false,
+  "nav": 307,
+  "alternate": {
+   "pt": "/modelo-hand/",
+   "en": "/en/hand-model/"
+  },
+  "blocks": [
+   {
+    "type": "markdown",
+    "md": "## O HAND model\n\nO HAND Model descrito por nós em Nobre et al. (2011) levou a comunidade cientifica internacional à apropriação dos fundamentos do modelo. Em decorrência, existem diferentes implementações do algoritmo HAND, quase todas utilizando scripts de programas de GIS, como o Arc GIS e outros. Mas todas essas implementações, inclusive o nosso script original em IDL que requeria o pacote ENVI para rodar, são difíceis de usar e oferecem limitações de processamento e recursos, algumas requerendo aporte de dados da rede de drenagem para poderem calcular o HAND.\n\nDesde 2012 vimos desenvolvendo um versátil e robusto programa _standalone_, escrito em C++, com capacidade para gerar a topologia normalizada HAND a partir diretamente de qualquer dado topográfico digital. Para aplicações no mapeamento de terrenos o programa tem a capacidade de classificar a topologia HAND, separando terrenos hidrologicamente homogêneos.  Para aplicações no mapeamento preditivo de risco hidrológico o programa tem a capacidade de gerar curvas de nível vetoriais, normalizadas pela drenagem, indicando zonas escalonadas de risco de inundação.\n\nO programa e manual podem ser baixados gratuitamente após cadastro. Fizemos inicialmente a versão compilada para rodar em Linux, que é estável. E agora estamos também disponibilizando uma versão compilada para MAC OS, que ainda precisa de ajustes, mas que pode também ser baixada. Esperamos que possa ser útil e agradecemos antecipadamente retorno dos usuários, com relato de bugs, experiências e questões sobre uso e aplicações.\n\nO único requerimento que fazemos é que ao reportar resultados de estudos usando o HAND Model, sejam dados créditos de autoria para Nobre et al. (2011), ou Nobre et al. (2015) se versar sobre desastres naturais ou Cuartas et al (2012) se versar sobre modelagem hidrológica."
+   },
+   {
+    "type": "button",
+    "label": "Baixar o HAND Model",
+    "href": "/baixar-hand-model/",
+    "primary": true
+   },
+   {
+    "type": "markdown",
+    "md": "#### Referências\n\n[Cuartas, L. A., Nobre, A. D., Hodnett, M. et al., 2012](https://www.sciencedirect.com/science/article/pii/S002216941200042X). Distributed hydrological modeling of a micro-scale rainforest watershed in Amazonia: Model evaluation and advances in calibration using the new HAND terrain model. _Journal of Hydrology_: 404, 13–29.\n\n[Nobre, A.D., Cuartas, L.A., Momo, M.R., et al](http://doi.org/10.1002/hyp.10581). 2015. HAND contour: a new proxy predictor of inundation extent. _Hydrological Processes._ DOI: 10.1002/hyp.10581\n\n[Nobre, A. D., Cuartas, L. A., Hodnett, M. et al](https://doi.org/10.1016/j.jhydrol.2011.03.051) 2011a. Height Above the Nearest Drainage – a hydrologically relevant new terrain model. _Journal of Hydrology_ 404, 13–29.\n\nNobre, A. D.; Silveira, A … Cuartas, L.A., 2011b. Aspectos físicos e geográficos das áreas ripárias no Brasil: análise preliminar da legislação. Ciência para o Código Florestal. São José dos Campos: Centro de Ciência para o Sistema Terrestre – INPE, 110 p. Relatório Cientifico."
+   },
+   {
+    "type": "markdown",
+    "md": "**Saiba mais:** [A física do HAND Model](/a-fisica-do-hand-model/) · [Equipe](/equipe/)"
+   }
+  ]
+ },
+ {
+  "id": 313,
+  "route": "en/download-the-hand-model/",
+  "lang": "en",
+  "title": "Download the HAND Model",
+  "heading": null,
+  "sidebar": false,
+  "nav": null,
+  "alternate": {
+   "pt": "/baixar-hand-model/",
+   "en": "/en/download-the-hand-model/"
+  },
+  "blocks": [
+   {
+    "type": "downloads",
+    "items": [
+     {
+      "type": "download",
+      "title": "Linux version",
+      "label": "Download HAND Linux version v1.0",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2019/03/HANDMODEL_Linux.7z"
+     },
+     {
+      "type": "download",
+      "title": "MacOS versions",
+      "label": "Download HAND MacOS version v1.0",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2019/06/HANDMODEL.app.7z"
+     },
+     {
+      "type": "download",
+      "title": "Windows version",
+      "label": "Download HAND Windows version v1.0",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2019/03/release.rar"
+     }
+    ]
+   },
+   {
+    "type": "markdown",
+    "md": "**Módulos**\n\n-   Beta version.\n-   HAND topology and classes\n-   HAND Contour;\n-   HAND Channel;\n-   HAND Channel Mask."
+   },
+   {
+    "type": "downloads",
+    "items": [
+     {
+      "type": "download",
+      "title": "User Guide",
+      "label": "View Guide",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2018/05/HAND-Model.pdf"
+     }
+    ]
+   },
+   {
+    "type": "markdown",
+    "md": "**Minimum hardware recommended to run the HAND Model:**\n\n-   CPU Dual Core 1.3GHz\n-   256 MB free on disk;\n-   2 GB RAM.\n\n**Previous versions:**"
+   },
+   {
+    "type": "downloads",
+    "items": [
+     {
+      "type": "download",
+      "title": "",
+      "label": "Download HAND Linux version 0.8.1 beta",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2018/05/buildHand.tar.gz"
+     },
+     {
+      "type": "download",
+      "title": "",
+      "label": "Download HAND MacOS version 0.8.1 beta",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2018/05/buildHandMac.zip"
+     },
+     {
+      "type": "download",
+      "title": "",
+      "label": "Download HAND MacOS version 0.6.4",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2018/04/HAND.dmg"
+     },
+     {
+      "type": "download",
+      "title": "",
+      "label": "Download HAND Windows version 0.6.4",
+      "href": "%ASSET%/wp-content/uploads/delightful-downloads/2018/04/HAND_WIN_VERSION.zip"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 326,
+  "route": "en/hand-model/",
+  "lang": "en",
+  "title": "HAND Model",
+  "heading": null,
+  "sidebar": false,
+  "nav": 326,
+  "alternate": {
+   "pt": "/modelo-hand/",
+   "en": "/en/hand-model/"
+  },
+  "blocks": [
+   {
+    "type": "markdown",
+    "md": "## The HAND model\n\nThe HAND described by us in Nobre et al. (2011) led the international scientific community to appropriate the foundations of the model. As a result, there are different implementations of the HAND algorithm, almost all using GIS program scripts, such as Arc GIS and others. But all of these implementations, including our original IDL script that required the ENVI package to run, are difficult to use and offer limitations in processing and features, some requiring additional data input from the drainage network in order to calculate the HAND.\n\nSince 2012 we have been developing a versatile and robust standalone program, written in C++,  with the ability to generate the normalized HAND topology directly from any digital topographic data. For applications in terrain mapping the program has the ability to classify the HAND topology, separating hydrologically homogeneous terrains. For applications in the predictive mapping of hydrological risk the program has the capacity to generate vector contours, normalized by drainage, indicating staged zones of flood risk.\n\nThe program and manual can be downloaded free of charge, after registration. We initially developed the compiled version to run on Linux, which is stable. And we are also providing a compiled version for MAC OS that still needs tweaking, but which can be downloaded. We hope the program can be useful and we thank in advance feedback from users, reporting bugs, experiences and questions about usage and applications.The only requirement we make is that when reporting results of studies using the HAND Model, authorship credits be given to Nobre et al. (2011), or to Nobre et al. (2015) if the study dealt with natural disasters or to Cuartas et al (2012) if the study is about hydrological modeling."
+   },
+   {
+    "type": "button",
+    "label": "Download the HAND Model",
+    "href": "/en/download-the-hand-model/",
+    "primary": true
+   },
+   {
+    "type": "markdown",
+    "md": "#### References\n\n[Cuartas, L. A., Nobre, A. D., Hodnett, M. et al., 2012](https://www.sciencedirect.com/science/article/pii/S002216941200042X). Distributed hydrological modeling of a micro-scale rainforest watershed in Amazonia: Model evaluation and advances in calibration using the new HAND terrain model. _Journal of Hydrology_: 404, 13–29.\n\n[Nobre, A.D., Cuartas, L.A., Momo, M.R., et al](http://doi.org/10.1002/hyp.10581). 2015. HAND contour: a new proxy predictor of inundation extent. _Hydrological Processes._ DOI: 10.1002/hyp.10581\n\n[Nobre, A. D., Cuartas, L. A., Hodnett, M. et al](https://doi.org/10.1016/j.jhydrol.2011.03.051) 2011a. Height Above the Nearest Drainage – a hydrologically relevant new terrain model. _Journal of Hydrology_ 404, 13–29.\n\nNobre, A. D.; Silveira, A … Cuartas, L.A., 2011b. Aspectos físicos e geográficos das áreas ripárias no Brasil: análise preliminar da legislação. Ciência para o Código Florestal. São José dos Campos: Centro de Ciência para o Sistema Terrestre – INPE, 110 p. Relatório Cientifico."
+   },
+   {
+    "type": "markdown",
+    "md": "**Learn more:** [The HAND Model Physics](/en/the-hand-model-physics/)"
+   }
+  ]
+ },
+ {
+  "id": 764,
+  "route": "en/references/",
+  "lang": "en",
+  "title": "References",
+  "heading": null,
+  "sidebar": false,
+  "nav": 764,
+  "alternate": {
+   "pt": "/referencias/",
+   "en": "/en/references/"
+  },
+  "blocks": [
+   {
+    "type": "tabs",
+    "tabs": [
+     {
+      "label": "Publications",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "[Cuartas, L. A., Nobre, A. D., Hodnett, M. et al., 2012](https://www.sciencedirect.com/science/article/pii/S002216941200042X). Distributed hydrological modeling of a micro-scale rainforest watershed in Amazonia: Model evaluation and advances in calibration using the new HAND terrain model. _Journal of Hydrology_: 404, 13–29.\n\nNobre, A. D., 2011a. Novas Geotecnologias no _Ordenamento_ do Ordenamento Territorial. Antonio Donato Nobre, INPA & CST INPE 63ª Reuniao Anual SBPC Goiânia.\n\n[Nobre, A.D. 2011b](https://www.hydrol-earth-syst-sci-discuss.net/8/C2439/2011/hessd-8-C2439-2011-print.pdf), Brief History on the development of the HAND model in Interactive comment on “Land classification based on hydrological landscape units” by S. Gharari et al. _Hydrol. Earth Syst. Sci. Discuss._, 8, C2439–C2445,\n\n[Nobre, A.D., Cuartas, L.A., Momo, M.R., et al](http://doi.org/10.1002/hyp.10581). 2015. HAND contour: a new proxy predictor of inundation extent. _Hydrological Processes._ DOI: 10.1002/hyp.10581\n\n[Nobre, A. D., Cuartas, L. A., Hodnett, M. et al](https://doi.org/10.1016/j.jhydrol.2011.03.051) 2011a. Height Above the Nearest Drainage – a hydrologically relevant new terrain model. _Journal of Hydrology_ 404, 13–29.\n\n[Nobre, A. D., Cuartas, L. A., Hodnett, M., Saleska, S](http://adsabs.harvard.edu/abs/2014AGUFM.B54C..05N). 2014. Fine-Scale Relief in the Amazon Drives Large Scale Ecohydrological Processes. _AGU Fall Meeting_, Session: Global Forest Dynamics and Interactions with a Changing Climate III, San Francisco.\n\nNobre, A. D.; Silveira, A.; Rodrigues, G.; … Cuartas, L.A., 2011. Aspectos físicos e geográficos das áreas ripárias no Brasil: análise preliminar da legislação. Ciência para o Código Florestal. São José dos Campos: Centro de Ciência para o Sistema Terrestre – INPE, 110 p. Relatório Científico.\n\n[Rennó, C.D., Nobre, A.D., Cuartas, et al](https://www.sciencedirect.com/science/article/pii/S003442570800120X) 2008. HAND, a new terrain descriptor using SRTM-DEM. Remote Sensing of Environment 112, 3469–3481."
+       }
+      ]
+     },
+     {
+      "label": "External references",
+      "blocks": [
+       {
+        "type": "markdown",
+        "md": "[Chauvel, A., Lucas, Y., and Boulet, R.](https://link.springer.com/article/10.1007/BF01945546), 1987 On the genesis of the soil mantle of the region of Manaus, Central Amazonia, Brazil. Experientia 43, 234-240.\n\n[Cuartas, L. A., Tomasella, J., Nobre, A. D., Hodnett, M. G., Waterloo, M. J., Múnera, J. C.](https://www.sciencedirect.com/science/article/pii/S0168192307001037), 2007. Interception water-partitioning dynamics for a pristine rainforest in Central Amazonia: marked differences between normal and dry years. Agricultural and Forest Meteorology 145 (1–2), 69–83.\n\n[Rahmati, O., Kornejady, A., Samadi, M., Nobre, A.D.. Melesse, A.M.](http://www.sciencedirect.com/science/article/pii/S1364815217310034) 2018. Development of an automated GIS tool for reproducing the HAND terrain model, _Environmental Modelling & Software_ 102, 1-12.\n\n[Sioli, H.](http://www.springer.com/la/book/9789400965447), 1984. The Amazon: limnology and landscape ecology of a mighty tropical river and its basin. W. Junk, 763 p.\n\n[Waterloo, M. J., Oliveira, S. M., Drucker, D. P., Nobre, A. D., Cuartas, L. A., Hodnett, M. G., Wilma, I. L., Jans, W. P., Tomasella, J., Araujo, A. C., Pimentel, T. P., Munera Estrada, J. C.](http://onlinelibrary.wiley.com/doi/10.1002/hyp.6217/pdf), 2006. Export of organic carbon in run-off from an Amazonian rainforest black water catchment. Hydrological Processes 20, 2581–2597."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 900,
+  "route": "projetos/",
+  "lang": "pt",
+  "title": "Projetos",
+  "heading": null,
+  "sidebar": true,
+  "nav": 900,
+  "alternate": {
+   "pt": "/projetos/",
+   "en": "/en/projects/"
+  },
+  "blocks": [
+   {
+    "type": "markdown",
+    "md": "Em breve…"
+   }
+  ]
+ },
+ {
+  "id": 905,
+  "route": "en/projects/",
+  "lang": "en",
+  "title": "Projects",
+  "heading": null,
+  "sidebar": true,
+  "nav": 905,
+  "alternate": {
+   "pt": "/projetos/",
+   "en": "/en/projects/"
+  },
+  "blocks": [
+   {
+    "type": "markdown",
+    "md": "Coming soon…"
+   }
+  ]
+ },
+ {
+  "id": 1073,
+  "route": "contato/",
+  "lang": "pt",
+  "title": "Contato",
+  "heading": null,
+  "sidebar": false,
+  "nav": 1073,
+  "alternate": {
+   "pt": "/contato/",
+   "en": "/en/contact/"
+  },
+  "blocks": [
+   {
+    "type": "markdown",
+    "md": "## Fale conosco\n\nEntre em contato com a nossa equipe em casos de dúvidas e sugestões:"
+   },
+   {
+    "type": "contact",
+    "lang": "pt"
+   }
+  ]
+ },
+ {
+  "id": 1075,
+  "route": "en/contact/",
+  "lang": "en",
+  "title": "Contact",
+  "heading": null,
+  "sidebar": false,
+  "nav": 1075,
+  "alternate": {
+   "pt": "/contato/",
+   "en": "/en/contact/"
+  },
+  "blocks": [
+   {
+    "type": "markdown",
+    "md": "## Contact us\n\nContact us for better information and suggestions:"
+   },
+   {
+    "type": "contact",
+    "lang": "en"
+   }
+  ]
+ },
+ {
+  "id": 1200,
+  "route": "a-fisica-do-hand-model/",
+  "lang": "pt",
+  "title": "A física do HAND Model",
+  "heading": null,
+  "sidebar": true,
+  "nav": null,
+  "alternate": {
+   "pt": "/a-fisica-do-hand-model/",
+   "en": "/en/"
+  },
+  "blocks": [
+   {
+    "type": "markdown",
+    "md": "A base inicial para o modelo HAND veio da definição de um canal de drenagem: os cursos d’água perenes ocorrem na superfície somente onde o substrato do solo esteja permanentemente saturado. Segue-se que o terreno nas imediações de um curso d’água deve estar permanentemente saturado, independentemente da altura acima do nível do mar onde o canal considerado ocorra. Portanto, os cursos d’água indicam a ocorrência localizada através da paisagem de solos homogeneamente saturados.\n\nA segunda base para o modelo HAND veio das características físicas distintas da circulação da água na paisagem. Os escoamentos continentais procedem da terra para o mar em duas etapas: em fluxos contidos nas encostas e subsuperfície; e em fluxos mais livres (descarga) ao longo de canais naturais definidos.\n\nA partir dessas bases emergiu a questão principal para o desenvolvimento do modelo HAND:\n\n_Como seriam comparáveis os gradientes topográficos das encostas entre trajetórias distintas se gradientes locais ao longo das trajetórias (em encostas) pudessem ser separados e isolados de gradientes em relação ao nível do mar na escala de paisagem (em canais)?_\n\nO modelo HAND foi estruturado usando alguns princípios fundamentais da hidrologia: o relevo condiciona as trajetórias de escoamento superficial (flowpaths) e, consequentemente, define domínios topológicos hidrologicamente consistentes (bacias de captação). As trajetórias de fluxo definem relações hidrológicas entre diferentes pontos dentro de uma bacia, formando uma rede hierárquica. A área acumulada define a superfície que contribui com o escoamento da encosta acima de qualquer ponto ao longo de uma trajetória de fluxo, e o limiar da área de contribuição define a densidade da rede de drenagem (estabelecendo o alcance superior cursos d’água perenes).\n\nA gravidade então impulsiona a água para baixo nos gradientes topográficos através da trajetória superficial de menor energia, escoando então de qualquer ponto no terreno em direção ao ponto mais próximo, onde se torna um curso d’água superficial. Esses princípios físicos e topológicos estabelecem hierarquias espaciais funcionais que permitem uma separação fisicamente coerente de gradientes topográficos na escala da paisagem ao longo dos canais de drenagem (DCG) de gradientes locais das trajetórias de fluxo superficial nas encostas (HFG). É importante distinguir o DCG, com escoamento perene (ou sazonal) – e o HFG – que podem ser subsuperficial ou pode apenas fluir efêmeramente como resultado de grandes eventos de precipitação. O HFG também pode remontar a um clima pretérito. No modelo HAND, corrigimos o DCG e normalizamos o HFG em relação ao DCG.\n\nA rede de drenagem é usada como uma estrutura local de referência topográfica variável, de modo que os gradientes em relação ao nível do mar ao longo dos canais sejam descartados, definindo a rede de drenagem como a menor altura de referência no novo modelo de terreno. Como cada célula de saída-para-drenagem do HFG tem uma altitude diferente, o nivelamento do canal de drenagem no modelo HAND implica em trazer todas as células de saída de HFG da captação para o mesmo novo nível de referência do canal de drenagem. Depois, as células ao longo de cada HFG são normalizadas em altura de acordo com esse nível de referência.\n\nA diferença de energia potencial gravitacional entre qualquer célula ao longo de um HFG e a extremidade mais baixa da mesma trajetória de escoamento em sua saída para o canal de drenagem define uma propriedade estacionária daquela célula, o potencial gravitacional relativo, que chamamos de potencial de drenagem local. A distância vertical (diferença de nível) de uma dada célula de HFG à sua célula de saída de drenagem é expressa como a diferença absoluta na altura acima do nível do mar entre essas células. Embora as alturas relativas do HFG no modelo HAND percam a sua referência ao nível do mar, podem identificar de forma única os potenciais distribuídos de drenagem locais, que são generalizáveis ao longo da bacia hidrográfica e para diferentes bacias hidrográficas. Num sentido semelhante, o potencial de drenagem para uma saída superficial da água subterrânea saturada é conhecido como carga hidráulica (por exemplo, Vereecken et al., 2007).\n\nNo entanto, nosso uso do conceito de potencial de drenagem contrasta com gradientes hidráulicos em declive (Hjerdt et al., 2004) porque consideramos o potencial topográfico na progressão da altura, ou seja, sempre começando no nível de drenagem (potencial zero) e subindo ao longo do HFG em direção ao divisor da bacia (maior potencial positivo). O potencial de drenagem também contrasta com a classe de drenagem, um conceito comum em pedologia (por exemplo, Bell et al., 1992). Embora ambos os conceitos se refiram às propriedades estacionárias da água da paisagem, a classe de drenagem descreve o regime hídrico apenas qualitativamente, independentemente dos potenciais de energia associados. Por outro lado, as alturas do modelo HAND ligam univocamente os potenciais de drenagem distribuída às respectivas drenagens mais próximas. Portanto, as superfícies moldadas do modelo HAND são uma topologia dos potenciais de drenagem locais, o que lhes dá significado hidrológico relevante e prático. O modelo HAND assume que para cada célula no DEM, deve haver um HFG único e topologicamente consistente conectando essa célula com sua respectiva saída a um fluxo. A conexão destas trajetórias de escoamento portam todos os componentes topológicos que são extraíveis de um DEM, o que permite a normalização espacialmente precisa dos potenciais de drenagem locais."
+   }
+  ]
+ },
+ {
+  "id": 1202,
+  "route": "en/the-hand-model-physics/",
+  "lang": "en",
+  "title": "The HAND Model Physics",
+  "heading": null,
+  "sidebar": true,
+  "nav": null,
+  "alternate": {
+   "pt": "/",
+   "en": "/en/the-hand-model-physics/"
+  },
+  "blocks": [
+   {
+    "type": "markdown",
+    "md": "The initial basis for the HAND model came from the definition of a drainage channel: perennial streamflows occur at the surface, where the soil substrate is permanently saturated. It follows that the terrain at and around a flowing stream must be permanently saturated, independently of the height above sea level where the considered channel occurs.\n\nStreamflows indicate the localized occurrence across the landscape of homogeneously saturated soils. The second basis for the HAND model came from the distinctive physical features of water circulation. Land flows proceed from the land to the sea in two phases: in restrained flows at the hillslope surface and subsurface; and in freer flows (or discharge) along defined natural channels. From these bases emerged the main question guiding HAND model development: how would hillslope topographic gradients be comparable among distinct flowpaths if local gradients along flowpaths (on hillslopes) could be teased apart and isolated from landscape-scale sea-ward gradients (in channels)?\n\nThe HAND model was structured using a few fundamental tenets of hydrology: the landform conditions the runoff trajectories (flowpaths) and, consequently, defines hydrologically consistent topological domains (catchments). Flowpaths define hydrological relationships between different points within a catchment, forming a hierarchical network. The accumulated area defines upslope runoff-contributing surface at any given point along a flowpath, and the contributing area threshold defines the drainage network density (establishing the upper reach of perennial streamflows).\n\nGravity then propels water down topographic gradients through the minimum energy trajectory (flowpath) moving from any point on and in the terrain towards the nearest point where it becomes a superficial drainage. These topological and physical principles establish functional spatial hierarchies that allow for a physically coherent separation of landscape-scale or drainage channel gradients (DCG) from hillslope flowpath gradients (HFG). It is important to distinguish between the DCG, with permanently (or seasonally) flowing streams – and the HFG – which may be subsurface or may only flow ephemerally as a result of large rainfall events. The HFG may also date back to a previous climate. In the HAND model, we fix DCG and normalize HFG with respect to DCG.\n\nThe drainage network is used as a local frame of variable topographic reference such that the sea-ward gradients along channels are discarded, setting the drainage network as the lowest reference height in the new terrain model. Because each HFG outlet- to-the-drainage cell bears a different altitude asl, the leveling off of the drainage-channel in the HAND model implies bringing all of the catchment’s HFG outlet cells to the same new drainage channel reference level. Then, the cells along each HFG are height normalized according to that reference level.\n\nThe gravitational potential energy difference between any given cell along a HFG and the lowest extremity of the same flowpath at its stream outlet defines a stationary property of that cell, the relative gravitational potential, that we call local draining potential. The vertical distance (difference in level) of a given HFG cell to its drainage outlet cell is expressed as the absolute difference in height above sea level between those cells. Even though the HFG relative-heights in the HAND model lose their reference to sea level, they can uniquely identify the distributed local draining potentials, which are generalizable across the catchment and for different catchments. In a similar sense, the draining potential to a surface water outlet for the saturated ground water is known as hydraulic head (e.g. Vereecken et al., 2007).\n\nHowever, our use of the draining potential concept contrasts with downhill hydraulic gradients (Hjerdt et al., 2004) because we consider the topographic potential in height progression, meaning always starting at the drainage level (zero potential) and moving uphill along the HFGs towards the catchment divide (higher positive potentials). Draining potential also contrasts with drainage class, a common concept in pedology (e.g. Bell et al., 1992). While both concepts refer to stationary water properties of landscape, drainage class describes the water regimen only qualitatively, irrespective of associated energy potentials. Conversely, the HAND model heights univocally link the distributed draining potentials to their respective nearest drainages. Therefore, the molded surfaces of the HAND model are a topology of local draining potentials, which gives them relevant and practical hydrological meaning. The HAND model assumes that for each cell in the DEM, there must be a unique and topologically consistent HFG connecting that cell with its respective outlet to a stream. These connecting flowpaths bear all of the topological components that are extractable from a DEM, which allows for the spatially accurate normalization of local draining potentials."
+   }
+  ]
+ }
+]

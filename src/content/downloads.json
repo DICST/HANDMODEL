@@ -1,0 +1,74 @@
+[
+ {
+  "id": 1265,
+  "file": "2019/03/HANDMODEL_Linux.7z",
+  "platform": "Linux",
+  "version": "1.0 beta",
+  "current": true,
+  "size": 25628525
+ },
+ {
+  "id": 1272,
+  "file": "2019/06/HANDMODEL.app.7z",
+  "platform": "MacOS",
+  "version": "1.0 beta",
+  "current": true,
+  "size": 23285793
+ },
+ {
+  "id": 1270,
+  "file": "2019/03/release.rar",
+  "platform": "Windows",
+  "version": "1.0 beta",
+  "current": true,
+  "size": 20187555
+ },
+ {
+  "id": 943,
+  "file": "2018/02/HAND-Model.pdf",
+  "platform": "Manual (pt-br)",
+  "version": "",
+  "current": true,
+  "size": 3482121
+ },
+ {
+  "id": 1016,
+  "file": "2018/05/HAND-Model.pdf",
+  "platform": "User Guide (en)",
+  "version": "",
+  "current": true,
+  "size": 3475615
+ },
+ {
+  "id": 980,
+  "file": "2018/05/buildHand.tar.gz",
+  "platform": "Linux",
+  "version": "0.8.1 beta",
+  "current": false,
+  "size": 29603280
+ },
+ {
+  "id": 1012,
+  "file": "2018/05/buildHandMac.zip",
+  "platform": "MacOS",
+  "version": "0.8.1 beta",
+  "current": false,
+  "size": 24055508
+ },
+ {
+  "id": 1154,
+  "file": "2018/04/HAND.dmg",
+  "platform": "MacOS",
+  "version": "0.6.4",
+  "current": false,
+  "size": 18438683
+ },
+ {
+  "id": 1155,
+  "file": "2018/04/HAND_WIN_VERSION.zip",
+  "platform": "Windows",
+  "version": "0.6.4",
+  "current": false,
+  "size": 27926958
+ }
+]
